@@ -10,7 +10,7 @@ class PhongMaterial extends Material {
     constructor(color, colorMap, specular, intensity) {
         let textureSample = 0;
 
-        if (colorMap != null) {
+        if (colorMap) {
             textureSample = 1;
             super({
                 'uTextureSample': { type: '1i', value: textureSample },
