@@ -27,7 +27,7 @@ void main(void) {
   vec3 normal = normalize(vNormal);
   float diff = max(dot(lightDir, normal), 0.0);
   float light_atten_coff = uLightIntensity / length(uLightPos - vFragPos);
-  vec3 diffuse =  diff * light_atten_coff * color;
+  vec3 diffuse = color * light_atten_coff * diff;
 
   vec3 viewDir = normalize(uCameraPos - vFragPos);
   float spec = 0.0;
