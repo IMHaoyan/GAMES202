@@ -111,7 +111,7 @@ float useShadowMap(sampler2D shadowMap, vec4 shadowCoord){
   // get depth of current fragment from light's perspective
   float currentDepth = shadowCoord.z;
   // check whether current frag pos is in shadow
-  float shadow = closestDepth > currentDepth ? 1.0 : 0.0;
+  float shadow = closestDepth > currentDepth ? 1.0 : 0.4; //0.0 represent the black shadow
   return shadow;
 }
 
