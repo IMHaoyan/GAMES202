@@ -105,8 +105,16 @@ float PCSS(sampler2D shadowMap, vec4 coords){
 
 
 float useShadowMap(sampler2D shadowMap, vec4 shadowCoord){
-  return 1.0;
+  // get closest depth value from light's perspective (using [0,1] range fragPosLight as coords)
+  vec4 closestDepthVec = texture2D(shadowMap, shadowCoord.xy); 
+  float closestDepth = unpack(closestDepthVec);
+  // get depth of current fragment from light's perspective
+  float currentDepth = shadowCoord.z;
+  // check whether current frag pos is in shadow
+  float shadow = closestDepth > currentDepth ? 1.0 : 0.0;
+  return shadow;
 }
+
 
 vec3 blinnPhong() {
   vec3 color = texture2D(uSampler, vTextureCoord).rgb;
@@ -132,14 +140,14 @@ vec3 blinnPhong() {
 }
 
 void main(void) {
+  vec3 shadowCoord = vPositionFromLight.xyz / vPositionFromLight.w;
+  shadowCoord = shadowCoord*0.5+0.5;
 
   float visibility;
-  //visibility = useShadowMap(uShadowMap, vec4(shadowCoord, 1.0));
+  visibility = useShadowMap(uShadowMap, vec4(shadowCoord, 1.0));
   //visibility = PCF(uShadowMap, vec4(shadowCoord, 1.0));
   //visibility = PCSS(uShadowMap, vec4(shadowCoord, 1.0));
-
   vec3 phongColor = blinnPhong();
-
-  //gl_FragColor = vec4(phongColor * visibility, 1.0);
-  gl_FragColor = vec4(phongColor, 1.0);
+  gl_FragColor = vec4(phongColor * visibility, 1.0);
+  //gl_FragColor = vec4(phongColor, 1.0);
 }
