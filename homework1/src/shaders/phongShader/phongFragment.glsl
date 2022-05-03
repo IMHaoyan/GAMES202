@@ -88,7 +88,22 @@ float findBlocker( sampler2D shadowMap,  vec2 uv, float zReceiver ) {
 }
 
 float PCF(sampler2D shadowMap, vec4 coords) {
-  return 1.0;
+  poissonDiskSamples(coords.xy);
+  float textureSize = 400.0;
+  float filterStride = 5.0;
+  float filterRange = 1.0 / textureSize * filterStride;
+  int ShadowCount = 0;
+  for(int i=0;i<NUM_SAMPLES;i++){
+    vec2 sampleCoord = poissonDisk[i] * filterRange + coords.xy;
+    vec4 closestDepthVec = texture2D(shadowMap, sampleCoord); 
+    float closestDepth = unpack(closestDepthVec);
+    float currentDepth = coords.z;
+    if(currentDepth > closestDepth + 0.01){
+      ShadowCount ++; 
+    }
+  }
+  float shadow = 1.0 - float(ShadowCount) / float(NUM_SAMPLES); 
+  return shadow;
 }
 
 float PCSS(sampler2D shadowMap, vec4 coords){
@@ -111,7 +126,7 @@ float useShadowMap(sampler2D shadowMap, vec4 shadowCoord){
   // get depth of current fragment from light's perspective
   float currentDepth = shadowCoord.z;
   // check whether current frag pos is in shadow
-  float shadow = closestDepth > currentDepth ? 1.0 : 0.4; //0.0 represent the black shadow
+  float shadow = closestDepth > currentDepth ? 1.0 : 0.0; //0.0 represent the black shadow
   return shadow;
 }
 
@@ -144,8 +159,8 @@ void main(void) {
   shadowCoord = shadowCoord*0.5+0.5;
 
   float visibility;
-  visibility = useShadowMap(uShadowMap, vec4(shadowCoord, 1.0));
-  //visibility = PCF(uShadowMap, vec4(shadowCoord, 1.0));
+  //visibility = useShadowMap(uShadowMap, vec4(shadowCoord, 1.0));
+  visibility = PCF(uShadowMap, vec4(shadowCoord, 1.0));
   //visibility = PCSS(uShadowMap, vec4(shadowCoord, 1.0));
   vec3 phongColor = blinnPhong();
   gl_FragColor = vec4(phongColor * visibility, 1.0);
