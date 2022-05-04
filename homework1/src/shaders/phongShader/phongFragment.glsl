@@ -49,14 +49,11 @@ float unpack(vec4 rgbaDepth) {
 vec2 poissonDisk[NUM_SAMPLES];
 
 void poissonDiskSamples( const in vec2 randomSeed ) {
-
   float ANGLE_STEP = PI2 * float( NUM_RINGS ) / float( NUM_SAMPLES );
   float INV_NUM_SAMPLES = 1.0 / float( NUM_SAMPLES );
-
   float angle = rand_2to1( randomSeed ) * PI2;
   float radius = INV_NUM_SAMPLES;
   float radiusStep = radius;
-
   for( int i = 0; i < NUM_SAMPLES; i ++ ) {
     poissonDisk[i] = vec2( cos( angle ), sin( angle ) ) * pow( radius, 0.75 );
     radius += radiusStep;
@@ -87,11 +84,9 @@ void uniformDiskSamples( const in vec2 randomSeed ) {
 float findBlocker( sampler2D shadowMap,  vec2 uv, float zReceiver ) {
   poissonDiskSamples(uv);
   //uniformDiskSamples(uv);
-
   float textureSize = 400.0;
-  float filterStride = 20.0;// 注意 block 的步长要比 PCSS 中的 PCF 步长长一些，这样生成的软阴影会更加柔和
+  float filterStride = 5.0;// 注意 block 的步长要比 PCSS 中的 PCF 步长长一些，这样生成的软阴影会更加柔和
   float filterRange = 1.0 / textureSize * filterStride;
-
   int shadowCount = 0;
   float blockDepth = 0.0;
   for( int i = 0; i < NUM_SAMPLES; i ++ ) {
@@ -103,11 +98,9 @@ float findBlocker( sampler2D shadowMap,  vec2 uv, float zReceiver ) {
       shadowCount += 1;
     }
   }
-
-  // if(shadowCount==NUM_SAMPLES){
-  //   return 2.0;
-  // }
-  // 平均
+  //  if(shadowCount==NUM_SAMPLES){
+  //    return 2.0;
+  //  }
   return blockDepth / float(shadowCount);
 }
 
@@ -137,16 +130,14 @@ float PCSS(sampler2D shadowMap, vec4 coords){
   // STEP 1: avgblocker depth
   float zBlocker = findBlocker(shadowMap, coords.xy, zReceiver);
   if(zBlocker < EPS) return 1.0;
-  if(zBlocker > 1.0) return 0.0;
-
+  //if(zBlocker > 1.0) return 0.0;
   // STEP 2: penumbra size
   float wPenumbra = (zReceiver - zBlocker) * W_LIGHT / zBlocker;
-  //float wPenumbra = 1.0;
   // STEP 3: filtering
   float textureSize = 400.0;
   // 这里的步长要比 STEP 1 的步长小一些
-  float filterStride = 5.0;
-  float filterRange = 1.0 / textureSize * filterStride * 1.0;
+  float filterStride = 1.0;
+  float filterRange = 1.0 / textureSize * filterStride * wPenumbra;
   int noShadowCount = 0;
   for( int i = 0; i < NUM_SAMPLES; i ++ ) {
     vec2 sampleCoord = poissonDisk[i] * filterRange + coords.xy;
@@ -208,5 +199,4 @@ void main(void) {
   visibility = PCSS(uShadowMap, vec4(shadowCoord, 1.0));
   vec3 phongColor = blinnPhong();
   gl_FragColor = vec4(phongColor * visibility, 1.0);
-  //gl_FragColor = vec4(phongColor, 1.0);
 }
