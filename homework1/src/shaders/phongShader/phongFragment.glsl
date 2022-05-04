@@ -15,10 +15,11 @@ varying highp vec3 vFragPos;
 varying highp vec3 vNormal;
 
 // Shadow map related variables
-#define NUM_SAMPLES 20
+#define NUM_SAMPLES 40
 #define BLOCKER_SEARCH_NUM_SAMPLES NUM_SAMPLES
 #define PCF_NUM_SAMPLES NUM_SAMPLES
 #define NUM_RINGS 10
+#define W_LIGHT 5.0
 
 #define EPS 1e-3
 #define PI 3.141592653589793
@@ -84,14 +85,39 @@ void uniformDiskSamples( const in vec2 randomSeed ) {
 }
 
 float findBlocker( sampler2D shadowMap,  vec2 uv, float zReceiver ) {
-	return 1.0;
+  poissonDiskSamples(uv);
+  //uniformDiskSamples(uv);
+
+  float textureSize = 400.0;
+  float filterStride = 20.0;// 注意 block 的步长要比 PCSS 中的 PCF 步长长一些，这样生成的软阴影会更加柔和
+  float filterRange = 1.0 / textureSize * filterStride;
+
+  int shadowCount = 0;
+  float blockDepth = 0.0;
+  for( int i = 0; i < NUM_SAMPLES; i ++ ) {
+    vec2 sampleCoord = poissonDisk[i] * filterRange + uv;
+    vec4 closestDepthVec = texture2D(shadowMap, sampleCoord); 
+    float closestDepth = unpack(closestDepthVec);
+    if(zReceiver > closestDepth + 0.01){
+      blockDepth += closestDepth;
+      shadowCount += 1;
+    }
+  }
+
+  // if(shadowCount==NUM_SAMPLES){
+  //   return 2.0;
+  // }
+  // 平均
+  return blockDepth / float(shadowCount);
 }
+
 
 float PCF(sampler2D shadowMap, vec4 coords) {
   poissonDiskSamples(coords.xy);
+  //uniformDiskSamples(coords.xy);
   float textureSize = 400.0;
   float filterStride = 5.0;
-  float filterRange = 1.0 / textureSize * filterStride;
+  float filterRange = filterStride * 1.0 / textureSize;
   int ShadowCount = 0;
   for(int i=0;i<NUM_SAMPLES;i++){
     vec2 sampleCoord = poissonDisk[i] * filterRange + coords.xy;
@@ -107,15 +133,33 @@ float PCF(sampler2D shadowMap, vec4 coords) {
 }
 
 float PCSS(sampler2D shadowMap, vec4 coords){
-
+  float zReceiver = coords.z;
   // STEP 1: avgblocker depth
+  float zBlocker = findBlocker(shadowMap, coords.xy, zReceiver);
+  if(zBlocker < EPS) return 1.0;
+  if(zBlocker > 1.0) return 0.0;
 
   // STEP 2: penumbra size
-
+  float wPenumbra = (zReceiver - zBlocker) * W_LIGHT / zBlocker;
+  //float wPenumbra = 1.0;
   // STEP 3: filtering
-  
-  return 1.0;
+  float textureSize = 400.0;
+  // 这里的步长要比 STEP 1 的步长小一些
+  float filterStride = 5.0;
+  float filterRange = 1.0 / textureSize * filterStride * 1.0;
+  int noShadowCount = 0;
+  for( int i = 0; i < NUM_SAMPLES; i ++ ) {
+    vec2 sampleCoord = poissonDisk[i] * filterRange + coords.xy;
+    vec4 closestDepthVec = texture2D(shadowMap, sampleCoord); 
+    float closestDepth = unpack(closestDepthVec);
+    float currentDepth = coords.z;
+    if(currentDepth < closestDepth + 0.01){
+      noShadowCount += 1;
+    }
+  }
 
+  float shadow = float(noShadowCount) / float(NUM_SAMPLES);
+  return shadow;
 }
 
 
@@ -160,8 +204,8 @@ void main(void) {
 
   float visibility;
   //visibility = useShadowMap(uShadowMap, vec4(shadowCoord, 1.0));
-  visibility = PCF(uShadowMap, vec4(shadowCoord, 1.0));
-  //visibility = PCSS(uShadowMap, vec4(shadowCoord, 1.0));
+  //visibility = PCF(uShadowMap, vec4(shadowCoord, 1.0));
+  visibility = PCSS(uShadowMap, vec4(shadowCoord, 1.0));
   vec3 phongColor = blinnPhong();
   gl_FragColor = vec4(phongColor * visibility, 1.0);
   //gl_FragColor = vec4(phongColor, 1.0);
