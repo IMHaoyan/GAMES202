@@ -86,7 +86,8 @@ float findBlocker( sampler2D shadowMap,  vec2 uv, float zReceiver ) {
   //uniformDiskSamples(uv);
   float textureSize = 400.0;
   float filterStride = 5.0;// 注意 block 的步长要比 PCSS 中的 PCF 步长长一些，这样生成的软阴影会更加柔和
-  float filterRange = 1.0 / textureSize * filterStride;
+  float filterRange = filterStride * 1.0 / textureSize ;
+
   int shadowCount = 0;
   float blockDepth = 0.0;
   for( int i = 0; i < NUM_SAMPLES; i ++ ) {
@@ -98,10 +99,11 @@ float findBlocker( sampler2D shadowMap,  vec2 uv, float zReceiver ) {
       shadowCount += 1;
     }
   }
-  //  if(shadowCount==NUM_SAMPLES){
-  //    return 2.0;
-  //  }
-  return blockDepth / float(shadowCount);
+  if(shadowCount==0){
+    return 0.3;
+  }
+  float abgDepth = float(blockDepth) / float(shadowCount);
+  return abgDepth;
 }
 
 
@@ -135,21 +137,20 @@ float PCSS(sampler2D shadowMap, vec4 coords){
   float wPenumbra = (zReceiver - zBlocker) * W_LIGHT / zBlocker;
   // STEP 3: filtering
   float textureSize = 400.0;
-  // 这里的步长要比 STEP 1 的步长小一些
-  float filterStride = 1.0;
+  float filterStride = 1.0;  // 这里的步长要比 STEP 1 的步长小一些
   float filterRange = 1.0 / textureSize * filterStride * wPenumbra;
+
   int noShadowCount = 0;
   for( int i = 0; i < NUM_SAMPLES; i ++ ) {
     vec2 sampleCoord = poissonDisk[i] * filterRange + coords.xy;
     vec4 closestDepthVec = texture2D(shadowMap, sampleCoord); 
     float closestDepth = unpack(closestDepthVec);
     float currentDepth = coords.z;
-    if(currentDepth < closestDepth + 0.01){
+    if(currentDepth > closestDepth + 0.01){
       noShadowCount += 1;
     }
   }
-
-  float shadow = float(noShadowCount) / float(NUM_SAMPLES);
+  float shadow = 1.0 - float(noShadowCount) / float(NUM_SAMPLES);
   return shadow;
 }
 
