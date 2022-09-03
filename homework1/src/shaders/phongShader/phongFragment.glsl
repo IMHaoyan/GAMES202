@@ -100,12 +100,22 @@ float findBlocker( sampler2D shadowMap,  vec2 uv, float zReceiver ) {
     }
   }
   if(shadowCount==0){
-    return 0.3;
+    return 1.0;
   }
-  float abgDepth = float(blockDepth) / float(shadowCount);
-  return abgDepth;
+  float avgDepth = float(blockDepth) / float(shadowCount);
+  return avgDepth;
 }
 
+float useShadowMap(sampler2D shadowMap, vec4 shadowCoord){
+  // get closest depth value from light's perspective (using [0,1] range fragPosLight as coords)
+  vec4 closestDepthVec = texture2D(shadowMap, shadowCoord.xy); 
+  float closestDepth = unpack(closestDepthVec);
+  // get depth of current fragment from light's perspective
+  float currentDepth = shadowCoord.z;
+  // check whether current frag pos is in shadow
+  float visibility = currentDepth - 0.01 > closestDepth ? 0.0 : 1.0; //0.0 represent the black shadow
+  return visibility;
+}
 
 float PCF(sampler2D shadowMap, vec4 coords) {
   poissonDiskSamples(coords.xy);
@@ -119,12 +129,12 @@ float PCF(sampler2D shadowMap, vec4 coords) {
     vec4 closestDepthVec = texture2D(shadowMap, sampleCoord); 
     float closestDepth = unpack(closestDepthVec);
     float currentDepth = coords.z;
-    if(currentDepth > closestDepth + 0.01){
+    if(currentDepth - 0.01 > closestDepth){
       ShadowCount ++; 
     }
   }
-  float shadow = 1.0 - float(ShadowCount) / float(NUM_SAMPLES); 
-  return shadow;
+  float visibility = 1.0 - float(ShadowCount) / float(NUM_SAMPLES); 
+  return visibility;
 }
 
 float PCSS(sampler2D shadowMap, vec4 coords){
@@ -140,32 +150,19 @@ float PCSS(sampler2D shadowMap, vec4 coords){
   float filterStride = 1.0;  // 这里的步长要比 STEP 1 的步长小一些
   float filterRange = 1.0 / textureSize * filterStride * wPenumbra;
 
-  int noShadowCount = 0;
+  int ShadowCount = 0;
   for( int i = 0; i < NUM_SAMPLES; i ++ ) {
     vec2 sampleCoord = poissonDisk[i] * filterRange + coords.xy;
     vec4 closestDepthVec = texture2D(shadowMap, sampleCoord); 
     float closestDepth = unpack(closestDepthVec);
     float currentDepth = coords.z;
-    if(currentDepth > closestDepth + 0.01){
-      noShadowCount += 1;
+    if(currentDepth - 0.01 > closestDepth){
+      ShadowCount += 1;
     }
   }
-  float shadow = 1.0 - float(noShadowCount) / float(NUM_SAMPLES);
-  return shadow;
+  float visibility = 1.0 - float(ShadowCount) / float(NUM_SAMPLES);
+  return visibility;
 }
-
-
-float useShadowMap(sampler2D shadowMap, vec4 shadowCoord){
-  // get closest depth value from light's perspective (using [0,1] range fragPosLight as coords)
-  vec4 closestDepthVec = texture2D(shadowMap, shadowCoord.xy); 
-  float closestDepth = unpack(closestDepthVec);
-  // get depth of current fragment from light's perspective
-  float currentDepth = shadowCoord.z;
-  // check whether current frag pos is in shadow
-  float shadow = closestDepth > currentDepth ? 1.0 : 0.0; //0.0 represent the black shadow
-  return shadow;
-}
-
 
 vec3 blinnPhong() {
   vec3 color = texture2D(uSampler, vTextureCoord).rgb;
@@ -201,3 +198,4 @@ void main(void) {
   vec3 phongColor = blinnPhong();
   gl_FragColor = vec4(phongColor * visibility, 1.0);
 }
+//参考https://blog.csdn.net/qq_58622402/article/details/124276196  2022年9月3日16点54分 Haoyan
