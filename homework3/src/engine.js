@@ -2,6 +2,7 @@ var gl, gl_draw_buffers;
 
 var bufferFBO;
 var bumpMap;
+var flag = 1;
 
 GAMES202Main();
 
@@ -24,16 +25,15 @@ function GAMES202Main() {
 	// Add camera
 	const camera = new THREE.PerspectiveCamera(75, gl.canvas.clientWidth / gl.canvas.clientHeight, 1e-3, 1000);
 	let cameraPosition, cameraTarget;
-	// /*
-	// Cube
-	cameraPosition = [6, 1, 0]
-	cameraTarget = [0, 0, 0]
-	// */
-	/*
-	// Cave
-	cameraPosition = [4.18927, 1.0313, 2.07331]
-	cameraTarget = [2.92191, 0.98, 1.55037]
-	*/
+	if(flag != 0){
+		// Cube
+		cameraPosition = [6, 1, 0]
+		cameraTarget = [0, 0, 0]
+	}else{
+		// Cave
+		cameraPosition = [4.18927, 1.0313, 2.07331]
+		cameraTarget = [2.92191, 0.98, 1.55037]
+	}
 	camera.position.set(cameraPosition[0], cameraPosition[1], cameraPosition[2]);
 	camera.fbo = new FBO(gl);
 
@@ -60,34 +60,42 @@ function GAMES202Main() {
 
 	// Add light
 	let lightPos, lightDir, lightRadiance;
-	/*
-	// Cave
-	lightRadiance = [20, 20, 20];
-	lightPos = [-0.45, 5.40507, 0.637043];
-	lightDir = {
-		'x': 0.39048811,
-		'y': -0.89896828,
-		'z': 0.19843153,
-	};
-	*/
-	// /*
-	// Cube
-	lightRadiance = [1, 1, 1];
-	lightPos = [-2, 4, 1];
-	lightDir = {
-		'x': 0.4,
-		'y': -0.9,
-		'z': -0.2,
-	};
+	if(flag == 1){
+		// Cube
+		lightRadiance = [1, 1, 1];
+		lightPos = [-2, 4, 1];
+		lightDir = {
+			'x': 0.4,
+			'y': -0.9,
+			'z': -0.2,
+		};
+	}else{
+		// Cave
+		lightRadiance = [20, 20, 20];
+		lightPos = [-0.45, 5.40507, 0.637043];
+		lightDir = {
+			'x': 0.39048811,
+			'y': -0.89896828,
+			'z': 0.19843153,
+		};
+	}
+	
 	// */
 	let lightUp = [1, 0, 0];
 	const directionLight = new DirectionalLight(lightRadiance, lightPos, lightDir, lightUp, renderer.gl);
 	renderer.addLight(directionLight);
 
 	// Add shapes
-	loadGLTF(renderer, 'assets/cube/', 'cube1', 'SSRMaterial');
-	// loadGLTF(renderer, 'assets/cube/', 'cube2', 'SSRMaterial');
-	// loadGLTF(renderer, 'assets/cave/', 'cave', 'SSRMaterial');
+	if(flag == 1){
+		loadGLTF(renderer, 'assets/cube/', 'cube1', 'SSRMaterial');
+		
+	}else if(flag == 2){
+		loadGLTF(renderer, 'assets/cube/', 'cube2', 'SSRMaterial');
+	}
+	else{
+		loadGLTF(renderer, 'assets/cave/', 'cave', 'SSRMaterial');
+	}
+	
 
 	function createGUI() {
 		const gui = new dat.gui.GUI();
