@@ -122,31 +122,98 @@ vec3 GetGBufferDiffuse(vec2 uv) {
  *
  */
 vec3 EvalDiffuse(vec3 wi, vec3 wo, vec2 uv) {
-  vec3 L = vec3(0.0);
-  return L;
+  vec3 diff = GetGBufferDiffuse(uv);
+  vec3 norm = GetGBufferNormalWorld(uv);
+  float NdotL = clamp(dot(norm, wi), 0.0, 1.0);
+  return NdotL * diff;
 }
-
 /*
  * Evaluate directional light with shadow map
  * uv is in screen space, [0, 1] x [0, 1].
- *
  */
 vec3 EvalDirectionalLight(vec2 uv) {
-  vec3 Le = vec3(0.0);
-  return Le;
+  vec3 posW = GetGBufferPosWorld(uv);
+  vec3 wi = normalize(uLightDir);
+  vec3 wo = normalize(uCameraPos - posW);
+  vec3 bsdf = EvalDiffuse(wi, wo, uv);
+  return uLightRadiance * bsdf * GetGBufferuShadow(uv);
+}
+
+bool outScreen(vec3 pos){
+  vec2 uv = GetScreenCoordinate(pos);
+  return any(bvec4(lessThan(uv, vec2(0.0)), greaterThan(uv, vec2(1.0))));
+}
+// 光线前进走到了深度图的物体前面，并没有产生碰撞
+bool atFront(vec3 pos){
+  return GetDepth(pos) < GetGBufferDepth(GetScreenCoordinate(pos));
 }
 
 bool RayMarch(vec3 ori, vec3 dir, out vec3 hitPos) {
+  float step = 0.8;
+  vec3 pos = ori;
+  bool intersect = false;
+  for (int i = 0;i < 20;i ++){
+    vec2 uv = GetScreenCoordinate(pos);
+    float depth = GetGBufferDepth(uv);
+    float distance_ray = GetDepth(pos); 
+    if (outScreen(pos)){
+      break;
+    }
+    if (atFront(pos + dir * step)){
+      intersect = false;
+      pos += dir * step;
+      //step *= 2.0;
+    }
+    else {//下一步有交点
+      intersect = true;
+      // 步子已经离得很近了 
+      if (step < 1e-2){
+        // d1判断当前在深度图前面   d2判断下一步在深度图后面
+        float d1 = GetGBufferDepth(GetScreenCoordinate(pos)) - GetDepth(pos); // + 1e-2;
+        float d2 = GetDepth(pos + dir * step) - GetGBufferDepth(GetScreenCoordinate(pos + dir * step)); // + 1e-2
+        if(d1 > 0.0 && d2 > 0.0){
+          hitPos = pos + dir * step ;//* d1 / (d1 + d2);
+          return true;
+        }
+      }
+    }
+    // 探测到下一步会走进去，开始慢慢走
+    if(intersect){
+      step *= 0.5;
+    }
+  }
   return false;
 }
 
-#define SAMPLE_NUM 1
+#define SAMPLE_NUM 10
+vec3 EvalIndirectLight(vec3 pos){
+  float pdf, seed = dot(pos, vec3(100.0));
+  vec3 Li = vec3(0.0), dir, hitPos;
+  vec3 normal = GetGBufferNormalWorld(GetScreenCoordinate(pos)), b1, b2;
+  LocalBasis(normal, b1, b2);
+  mat3 TBN = mat3(b1, b2, normal);
+  for(int i = 0; i < SAMPLE_NUM;i++){
+    vec3 light2Cam = uCameraPos - pos;//
+    //dir = normalize(reflect(-light2Cam, normal));
+    dir = normalize(TBN * SampleHemisphereCos(seed, pdf));//按照cos加权采样上半球
+    if(RayMarch(pos, dir, hitPos)){ //SSR经典思想：如果打出光线有交点，则着色
+      vec3 lightReflect = pos - hitPos;//
+      vec2 uvReflect = GetScreenCoordinate(hitPos);//
+      vec3 wo = normalize(uCameraPos - pos);
+      vec3 wi = normalize(uLightDir);
+      //vec3 L = EvalDirectionalLight(uvReflect);
+      vec3 L = EvalDiffuse(dir, wo, GetScreenCoordinate(pos)) / pdf * EvalDiffuse(wi, wo, GetScreenCoordinate(hitPos)) * EvalDirectionalLight(GetScreenCoordinate(hitPos));
+      Li += L;
+    }
+  }
+  return Li / float(SAMPLE_NUM);
+}
 
 void main() {
   float s = InitRand(gl_FragCoord.xy);
-
-  vec3 L = vec3(0.0);
-  L = GetGBufferDiffuse(GetScreenCoordinate(vPosWorld.xyz));
+  vec3 L = EvalDirectionalLight(GetScreenCoordinate(vPosWorld.xyz));
+  vec3 Li = EvalIndirectLight(vPosWorld.xyz);
+  L += Li;
   vec3 color = pow(clamp(L, vec3(0.0), vec3(1.0)), vec3(1.0 / 2.2));
   gl_FragColor = vec4(vec3(color.rgb), 1.0);
 }
