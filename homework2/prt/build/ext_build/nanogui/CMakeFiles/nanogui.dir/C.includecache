@@ -6,15 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/ext/nanovg/src/fontstash.h
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/ext/nanovg/src/fontstash.h
 ft2build.h
 -
 math.h
 -
 stb_truetype.h
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/ext/nanovg/src/stb_truetype.h
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/ext/nanovg/src/stb_truetype.h
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/ext/nanovg/src/nanovg.c
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/ext/nanovg/src/nanovg.c
 stdlib.h
 -
 stdio.h
@@ -24,17 +24,17 @@ math.h
 memory.h
 -
 nanovg.h
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/ext/nanovg/src/nanovg.h
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/ext/nanovg/src/nanovg.h
 fontstash.h
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/ext/nanovg/src/fontstash.h
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/ext/nanovg/src/fontstash.h
 stb_image.h
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/ext/nanovg/src/stb_image.h
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/ext/nanovg/src/stb_image.h
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/ext/nanovg/src/nanovg.h
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/ext/nanovg/src/nanovg.h
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/ext/nanovg/src/stb_image.h
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/ext/nanovg/src/stb_image.h
 stb_image.h
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/ext/nanovg/src/stb_image.h
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/ext/nanovg/src/stb_image.h
 stdio.h
 -
 stdlib.h
@@ -64,13 +64,13 @@ intrin.h
 arm_neon.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/ext/nanovg/src/stb_truetype.h
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/ext/nanovg/src/stb_truetype.h
 stb_truetype.h
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/ext/nanovg/src/stb_truetype.h
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/ext/nanovg/src/stb_truetype.h
 stdio.h
 -
 stb_truetype.h
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/ext/nanovg/src/stb_truetype.h
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/ext/nanovg/src/stb_truetype.h
 math.h
 -
 math.h

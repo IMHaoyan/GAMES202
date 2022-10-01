@@ -1,4 +1,4 @@
-# Install script for directory: /home/haoyan/GAMES202/Assignment2/prt/ext/tbb
+# Install script for directory: /home/haoyan/GAMES202/homework2/prt/ext/tbb
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,10 +38,10 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/haoyan/GAMES202/Assignment2/prt/build/ext_build/tbb/libtbb_static.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/haoyan/GAMES202/homework2/prt/build/ext_build/tbb/libtbb_static.a")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "/home/haoyan/GAMES202/Assignment2/prt/ext/tbb/include/tbb")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "/home/haoyan/GAMES202/homework2/prt/ext/tbb/include/tbb")
 endif()
 

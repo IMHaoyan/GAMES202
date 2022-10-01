@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/haoyan/GAMES202/Assignment2/prt
+CMAKE_SOURCE_DIR = /home/haoyan/GAMES202/homework2/prt
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/haoyan/GAMES202/Assignment2/prt/build
+CMAKE_BINARY_DIR = /home/haoyan/GAMES202/homework2/prt/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -115,7 +115,7 @@ rebuild_cache/fast: rebuild_cache
 # Special rule for the target package
 package: preinstall
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Run CPack packaging tool..."
-	cd /home/haoyan/GAMES202/Assignment2/prt/build && /usr/bin/cpack --config ./CPackConfig.cmake
+	cd /home/haoyan/GAMES202/homework2/prt/build && /usr/bin/cpack --config ./CPackConfig.cmake
 .PHONY : package
 
 # Special rule for the target package
@@ -138,7 +138,7 @@ install/strip/fast: preinstall/fast
 # Special rule for the target package_source
 package_source:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Run CPack packaging tool for source..."
-	cd /home/haoyan/GAMES202/Assignment2/prt/build && /usr/bin/cpack --config ./CPackSourceConfig.cmake /home/haoyan/GAMES202/Assignment2/prt/build/CPackSourceConfig.cmake
+	cd /home/haoyan/GAMES202/homework2/prt/build && /usr/bin/cpack --config ./CPackSourceConfig.cmake /home/haoyan/GAMES202/homework2/prt/build/CPackSourceConfig.cmake
 .PHONY : package_source
 
 # Special rule for the target package_source
@@ -148,14 +148,14 @@ package_source/fast: package_source
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/haoyan/GAMES202/Assignment2/prt/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/haoyan/GAMES202/Assignment2/prt/build/CMakeFiles /home/haoyan/GAMES202/Assignment2/prt/build/ext_build/openexr/IlmBase/Half/CMakeFiles/progress.marks
-	cd /home/haoyan/GAMES202/Assignment2/prt/build && $(MAKE) -f CMakeFiles/Makefile2 ext_build/openexr/IlmBase/Half/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/haoyan/GAMES202/Assignment2/prt/build/CMakeFiles 0
+	cd /home/haoyan/GAMES202/homework2/prt/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/haoyan/GAMES202/homework2/prt/build/CMakeFiles /home/haoyan/GAMES202/homework2/prt/build/ext_build/openexr/IlmBase/Half/CMakeFiles/progress.marks
+	cd /home/haoyan/GAMES202/homework2/prt/build && $(MAKE) -f CMakeFiles/Makefile2 ext_build/openexr/IlmBase/Half/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/haoyan/GAMES202/homework2/prt/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/haoyan/GAMES202/Assignment2/prt/build && $(MAKE) -f CMakeFiles/Makefile2 ext_build/openexr/IlmBase/Half/clean
+	cd /home/haoyan/GAMES202/homework2/prt/build && $(MAKE) -f CMakeFiles/Makefile2 ext_build/openexr/IlmBase/Half/clean
 .PHONY : clean
 
 # The main clean target
@@ -165,22 +165,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/haoyan/GAMES202/Assignment2/prt/build && $(MAKE) -f CMakeFiles/Makefile2 ext_build/openexr/IlmBase/Half/preinstall
+	cd /home/haoyan/GAMES202/homework2/prt/build && $(MAKE) -f CMakeFiles/Makefile2 ext_build/openexr/IlmBase/Half/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/haoyan/GAMES202/Assignment2/prt/build && $(MAKE) -f CMakeFiles/Makefile2 ext_build/openexr/IlmBase/Half/preinstall
+	cd /home/haoyan/GAMES202/homework2/prt/build && $(MAKE) -f CMakeFiles/Makefile2 ext_build/openexr/IlmBase/Half/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/haoyan/GAMES202/Assignment2/prt/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/haoyan/GAMES202/homework2/prt/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 ext_build/openexr/IlmBase/Half/CMakeFiles/Half.dir/rule:
-	cd /home/haoyan/GAMES202/Assignment2/prt/build && $(MAKE) -f CMakeFiles/Makefile2 ext_build/openexr/IlmBase/Half/CMakeFiles/Half.dir/rule
+	cd /home/haoyan/GAMES202/homework2/prt/build && $(MAKE) -f CMakeFiles/Makefile2 ext_build/openexr/IlmBase/Half/CMakeFiles/Half.dir/rule
 .PHONY : ext_build/openexr/IlmBase/Half/CMakeFiles/Half.dir/rule
 
 # Convenience name for target.
@@ -190,12 +190,12 @@ Half: ext_build/openexr/IlmBase/Half/CMakeFiles/Half.dir/rule
 
 # fast build rule for target.
 Half/fast:
-	cd /home/haoyan/GAMES202/Assignment2/prt/build && $(MAKE) -f ext_build/openexr/IlmBase/Half/CMakeFiles/Half.dir/build.make ext_build/openexr/IlmBase/Half/CMakeFiles/Half.dir/build
+	cd /home/haoyan/GAMES202/homework2/prt/build && $(MAKE) -f ext_build/openexr/IlmBase/Half/CMakeFiles/Half.dir/build.make ext_build/openexr/IlmBase/Half/CMakeFiles/Half.dir/build
 .PHONY : Half/fast
 
 # Convenience name for target.
 ext_build/openexr/IlmBase/Half/CMakeFiles/toFloat.dir/rule:
-	cd /home/haoyan/GAMES202/Assignment2/prt/build && $(MAKE) -f CMakeFiles/Makefile2 ext_build/openexr/IlmBase/Half/CMakeFiles/toFloat.dir/rule
+	cd /home/haoyan/GAMES202/homework2/prt/build && $(MAKE) -f CMakeFiles/Makefile2 ext_build/openexr/IlmBase/Half/CMakeFiles/toFloat.dir/rule
 .PHONY : ext_build/openexr/IlmBase/Half/CMakeFiles/toFloat.dir/rule
 
 # Convenience name for target.
@@ -205,12 +205,12 @@ toFloat: ext_build/openexr/IlmBase/Half/CMakeFiles/toFloat.dir/rule
 
 # fast build rule for target.
 toFloat/fast:
-	cd /home/haoyan/GAMES202/Assignment2/prt/build && $(MAKE) -f ext_build/openexr/IlmBase/Half/CMakeFiles/toFloat.dir/build.make ext_build/openexr/IlmBase/Half/CMakeFiles/toFloat.dir/build
+	cd /home/haoyan/GAMES202/homework2/prt/build && $(MAKE) -f ext_build/openexr/IlmBase/Half/CMakeFiles/toFloat.dir/build.make ext_build/openexr/IlmBase/Half/CMakeFiles/toFloat.dir/build
 .PHONY : toFloat/fast
 
 # Convenience name for target.
 ext_build/openexr/IlmBase/Half/CMakeFiles/eLut.dir/rule:
-	cd /home/haoyan/GAMES202/Assignment2/prt/build && $(MAKE) -f CMakeFiles/Makefile2 ext_build/openexr/IlmBase/Half/CMakeFiles/eLut.dir/rule
+	cd /home/haoyan/GAMES202/homework2/prt/build && $(MAKE) -f CMakeFiles/Makefile2 ext_build/openexr/IlmBase/Half/CMakeFiles/eLut.dir/rule
 .PHONY : ext_build/openexr/IlmBase/Half/CMakeFiles/eLut.dir/rule
 
 # Convenience name for target.
@@ -220,7 +220,7 @@ eLut: ext_build/openexr/IlmBase/Half/CMakeFiles/eLut.dir/rule
 
 # fast build rule for target.
 eLut/fast:
-	cd /home/haoyan/GAMES202/Assignment2/prt/build && $(MAKE) -f ext_build/openexr/IlmBase/Half/CMakeFiles/eLut.dir/build.make ext_build/openexr/IlmBase/Half/CMakeFiles/eLut.dir/build
+	cd /home/haoyan/GAMES202/homework2/prt/build && $(MAKE) -f ext_build/openexr/IlmBase/Half/CMakeFiles/eLut.dir/build.make ext_build/openexr/IlmBase/Half/CMakeFiles/eLut.dir/build
 .PHONY : eLut/fast
 
 eLut.o: eLut.cpp.o
@@ -229,7 +229,7 @@ eLut.o: eLut.cpp.o
 
 # target to build an object file
 eLut.cpp.o:
-	cd /home/haoyan/GAMES202/Assignment2/prt/build && $(MAKE) -f ext_build/openexr/IlmBase/Half/CMakeFiles/eLut.dir/build.make ext_build/openexr/IlmBase/Half/CMakeFiles/eLut.dir/eLut.cpp.o
+	cd /home/haoyan/GAMES202/homework2/prt/build && $(MAKE) -f ext_build/openexr/IlmBase/Half/CMakeFiles/eLut.dir/build.make ext_build/openexr/IlmBase/Half/CMakeFiles/eLut.dir/eLut.cpp.o
 .PHONY : eLut.cpp.o
 
 eLut.i: eLut.cpp.i
@@ -238,7 +238,7 @@ eLut.i: eLut.cpp.i
 
 # target to preprocess a source file
 eLut.cpp.i:
-	cd /home/haoyan/GAMES202/Assignment2/prt/build && $(MAKE) -f ext_build/openexr/IlmBase/Half/CMakeFiles/eLut.dir/build.make ext_build/openexr/IlmBase/Half/CMakeFiles/eLut.dir/eLut.cpp.i
+	cd /home/haoyan/GAMES202/homework2/prt/build && $(MAKE) -f ext_build/openexr/IlmBase/Half/CMakeFiles/eLut.dir/build.make ext_build/openexr/IlmBase/Half/CMakeFiles/eLut.dir/eLut.cpp.i
 .PHONY : eLut.cpp.i
 
 eLut.s: eLut.cpp.s
@@ -247,7 +247,7 @@ eLut.s: eLut.cpp.s
 
 # target to generate assembly for a file
 eLut.cpp.s:
-	cd /home/haoyan/GAMES202/Assignment2/prt/build && $(MAKE) -f ext_build/openexr/IlmBase/Half/CMakeFiles/eLut.dir/build.make ext_build/openexr/IlmBase/Half/CMakeFiles/eLut.dir/eLut.cpp.s
+	cd /home/haoyan/GAMES202/homework2/prt/build && $(MAKE) -f ext_build/openexr/IlmBase/Half/CMakeFiles/eLut.dir/build.make ext_build/openexr/IlmBase/Half/CMakeFiles/eLut.dir/eLut.cpp.s
 .PHONY : eLut.cpp.s
 
 half.o: half.cpp.o
@@ -256,7 +256,7 @@ half.o: half.cpp.o
 
 # target to build an object file
 half.cpp.o:
-	cd /home/haoyan/GAMES202/Assignment2/prt/build && $(MAKE) -f ext_build/openexr/IlmBase/Half/CMakeFiles/Half.dir/build.make ext_build/openexr/IlmBase/Half/CMakeFiles/Half.dir/half.cpp.o
+	cd /home/haoyan/GAMES202/homework2/prt/build && $(MAKE) -f ext_build/openexr/IlmBase/Half/CMakeFiles/Half.dir/build.make ext_build/openexr/IlmBase/Half/CMakeFiles/Half.dir/half.cpp.o
 .PHONY : half.cpp.o
 
 half.i: half.cpp.i
@@ -265,7 +265,7 @@ half.i: half.cpp.i
 
 # target to preprocess a source file
 half.cpp.i:
-	cd /home/haoyan/GAMES202/Assignment2/prt/build && $(MAKE) -f ext_build/openexr/IlmBase/Half/CMakeFiles/Half.dir/build.make ext_build/openexr/IlmBase/Half/CMakeFiles/Half.dir/half.cpp.i
+	cd /home/haoyan/GAMES202/homework2/prt/build && $(MAKE) -f ext_build/openexr/IlmBase/Half/CMakeFiles/Half.dir/build.make ext_build/openexr/IlmBase/Half/CMakeFiles/Half.dir/half.cpp.i
 .PHONY : half.cpp.i
 
 half.s: half.cpp.s
@@ -274,7 +274,7 @@ half.s: half.cpp.s
 
 # target to generate assembly for a file
 half.cpp.s:
-	cd /home/haoyan/GAMES202/Assignment2/prt/build && $(MAKE) -f ext_build/openexr/IlmBase/Half/CMakeFiles/Half.dir/build.make ext_build/openexr/IlmBase/Half/CMakeFiles/Half.dir/half.cpp.s
+	cd /home/haoyan/GAMES202/homework2/prt/build && $(MAKE) -f ext_build/openexr/IlmBase/Half/CMakeFiles/Half.dir/build.make ext_build/openexr/IlmBase/Half/CMakeFiles/Half.dir/half.cpp.s
 .PHONY : half.cpp.s
 
 toFloat.o: toFloat.cpp.o
@@ -283,7 +283,7 @@ toFloat.o: toFloat.cpp.o
 
 # target to build an object file
 toFloat.cpp.o:
-	cd /home/haoyan/GAMES202/Assignment2/prt/build && $(MAKE) -f ext_build/openexr/IlmBase/Half/CMakeFiles/toFloat.dir/build.make ext_build/openexr/IlmBase/Half/CMakeFiles/toFloat.dir/toFloat.cpp.o
+	cd /home/haoyan/GAMES202/homework2/prt/build && $(MAKE) -f ext_build/openexr/IlmBase/Half/CMakeFiles/toFloat.dir/build.make ext_build/openexr/IlmBase/Half/CMakeFiles/toFloat.dir/toFloat.cpp.o
 .PHONY : toFloat.cpp.o
 
 toFloat.i: toFloat.cpp.i
@@ -292,7 +292,7 @@ toFloat.i: toFloat.cpp.i
 
 # target to preprocess a source file
 toFloat.cpp.i:
-	cd /home/haoyan/GAMES202/Assignment2/prt/build && $(MAKE) -f ext_build/openexr/IlmBase/Half/CMakeFiles/toFloat.dir/build.make ext_build/openexr/IlmBase/Half/CMakeFiles/toFloat.dir/toFloat.cpp.i
+	cd /home/haoyan/GAMES202/homework2/prt/build && $(MAKE) -f ext_build/openexr/IlmBase/Half/CMakeFiles/toFloat.dir/build.make ext_build/openexr/IlmBase/Half/CMakeFiles/toFloat.dir/toFloat.cpp.i
 .PHONY : toFloat.cpp.i
 
 toFloat.s: toFloat.cpp.s
@@ -301,7 +301,7 @@ toFloat.s: toFloat.cpp.s
 
 # target to generate assembly for a file
 toFloat.cpp.s:
-	cd /home/haoyan/GAMES202/Assignment2/prt/build && $(MAKE) -f ext_build/openexr/IlmBase/Half/CMakeFiles/toFloat.dir/build.make ext_build/openexr/IlmBase/Half/CMakeFiles/toFloat.dir/toFloat.cpp.s
+	cd /home/haoyan/GAMES202/homework2/prt/build && $(MAKE) -f ext_build/openexr/IlmBase/Half/CMakeFiles/toFloat.dir/build.make ext_build/openexr/IlmBase/Half/CMakeFiles/toFloat.dir/toFloat.cpp.s
 .PHONY : toFloat.cpp.s
 
 # Help Target
@@ -341,6 +341,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/haoyan/GAMES202/Assignment2/prt/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/haoyan/GAMES202/homework2/prt/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

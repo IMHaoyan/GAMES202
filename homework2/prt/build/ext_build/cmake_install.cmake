@@ -1,4 +1,4 @@
-# Install script for directory: /home/haoyan/GAMES202/Assignment2/prt/ext
+# Install script for directory: /home/haoyan/GAMES202/homework2/prt/ext
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,9 +39,9 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/haoyan/GAMES202/Assignment2/prt/build/ext_build/openexr/cmake_install.cmake")
-  include("/home/haoyan/GAMES202/Assignment2/prt/build/ext_build/tbb/cmake_install.cmake")
-  include("/home/haoyan/GAMES202/Assignment2/prt/build/ext_build/nanogui/cmake_install.cmake")
+  include("/home/haoyan/GAMES202/homework2/prt/build/ext_build/openexr/cmake_install.cmake")
+  include("/home/haoyan/GAMES202/homework2/prt/build/ext_build/tbb/cmake_install.cmake")
+  include("/home/haoyan/GAMES202/homework2/prt/build/ext_build/nanogui/cmake_install.cmake")
 
 endif()
 

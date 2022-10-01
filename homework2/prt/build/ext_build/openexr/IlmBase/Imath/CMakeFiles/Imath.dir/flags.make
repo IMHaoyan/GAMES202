@@ -6,5 +6,5 @@ CXX_FLAGS =  -std=c++14 -fvisibility=hidden -Wno-deprecated-declarations -Wno-mi
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/haoyan/GAMES202/Assignment2/prt/build/ext_build/openexr/IlmBase/Imath -I/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath -I/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Iex -I/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/IexMath -I/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Half -I/home/haoyan/GAMES202/Assignment2/prt/build/ext_build/openexr/IlmBase/config -I/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/IlmThread 
+CXX_INCLUDES = -I/home/haoyan/GAMES202/homework2/prt/build/ext_build/openexr/IlmBase/Imath -I/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath -I/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Iex -I/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/IexMath -I/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Half -I/home/haoyan/GAMES202/homework2/prt/build/ext_build/openexr/IlmBase/config -I/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/IlmThread 
 

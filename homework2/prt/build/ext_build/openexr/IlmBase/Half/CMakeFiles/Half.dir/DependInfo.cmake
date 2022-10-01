@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Half/half.cpp" "/home/haoyan/GAMES202/Assignment2/prt/build/ext_build/openexr/IlmBase/Half/CMakeFiles/Half.dir/half.cpp.o"
+  "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Half/half.cpp" "/home/haoyan/GAMES202/homework2/prt/build/ext_build/openexr/IlmBase/Half/CMakeFiles/Half.dir/half.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

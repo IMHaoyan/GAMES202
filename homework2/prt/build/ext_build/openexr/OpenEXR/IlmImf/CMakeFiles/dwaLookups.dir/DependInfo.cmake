@@ -4,14 +4,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/dwaLookups.cpp" "/home/haoyan/GAMES202/Assignment2/prt/build/ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/dwaLookups.dir/dwaLookups.cpp.o"
+  "/home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/dwaLookups.cpp" "/home/haoyan/GAMES202/homework2/prt/build/ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/dwaLookups.dir/dwaLookups.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # Preprocessor definitions for this target.
 set(CMAKE_TARGET_DEFINITIONS_CXX
   "HAVE_CONFIG_H"
-  "ILM_IMF_TEST_IMAGEDIR=\"/home/haoyan/GAMES202/Assignment2/prt/IlmImfTest/\""
+  "ILM_IMF_TEST_IMAGEDIR=\"/home/haoyan/GAMES202/homework2/prt/IlmImfTest/\""
   )
 
 # The include file search paths:
@@ -34,9 +34,9 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/haoyan/GAMES202/Assignment2/prt/build/ext_build/openexr/IlmBase/Half/CMakeFiles/Half.dir/DependInfo.cmake"
-  "/home/haoyan/GAMES202/Assignment2/prt/build/ext_build/openexr/IlmBase/IlmThread/CMakeFiles/IlmThread.dir/DependInfo.cmake"
-  "/home/haoyan/GAMES202/Assignment2/prt/build/ext_build/openexr/IlmBase/Iex/CMakeFiles/Iex.dir/DependInfo.cmake"
+  "/home/haoyan/GAMES202/homework2/prt/build/ext_build/openexr/IlmBase/Half/CMakeFiles/Half.dir/DependInfo.cmake"
+  "/home/haoyan/GAMES202/homework2/prt/build/ext_build/openexr/IlmBase/IlmThread/CMakeFiles/IlmThread.dir/DependInfo.cmake"
+  "/home/haoyan/GAMES202/homework2/prt/build/ext_build/openexr/IlmBase/Iex/CMakeFiles/Iex.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

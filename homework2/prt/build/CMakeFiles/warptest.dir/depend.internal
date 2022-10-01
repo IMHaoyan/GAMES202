@@ -205,7 +205,7 @@ CMakeFiles/warptest.dir/src/common.cpp.o
  ../include/nori/ray.h
  ../include/nori/transform.h
  ../include/nori/vector.h
- /home/haoyan/GAMES202/Assignment2/prt/src/common.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/common.cpp
 CMakeFiles/warptest.dir/src/microfacet.cpp.o
  ../ext/eigen/Eigen/Core
  ../ext/eigen/Eigen/src/Core/Array.h
@@ -360,7 +360,7 @@ CMakeFiles/warptest.dir/src/microfacet.cpp.o
  ../include/nori/transform.h
  ../include/nori/vector.h
  ../include/nori/warp.h
- /home/haoyan/GAMES202/Assignment2/prt/src/microfacet.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/microfacet.cpp
 CMakeFiles/warptest.dir/src/object.cpp.o
  ../ext/eigen/Eigen/Core
  ../ext/eigen/Eigen/src/Core/Array.h
@@ -511,7 +511,7 @@ CMakeFiles/warptest.dir/src/object.cpp.o
  ../include/nori/ray.h
  ../include/nori/transform.h
  ../include/nori/vector.h
- /home/haoyan/GAMES202/Assignment2/prt/src/object.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/object.cpp
 CMakeFiles/warptest.dir/src/proplist.cpp.o
  ../ext/eigen/Eigen/Core
  ../ext/eigen/Eigen/src/Core/Array.h
@@ -661,7 +661,7 @@ CMakeFiles/warptest.dir/src/proplist.cpp.o
  ../include/nori/ray.h
  ../include/nori/transform.h
  ../include/nori/vector.h
- /home/haoyan/GAMES202/Assignment2/prt/src/proplist.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/proplist.cpp
 CMakeFiles/warptest.dir/src/warp.cpp.o
  ../ext/eigen/Eigen/Core
  ../ext/eigen/Eigen/src/Core/Array.h
@@ -815,7 +815,7 @@ CMakeFiles/warptest.dir/src/warp.cpp.o
  ../include/nori/transform.h
  ../include/nori/vector.h
  ../include/nori/warp.h
- /home/haoyan/GAMES202/Assignment2/prt/src/warp.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/warp.cpp
 CMakeFiles/warptest.dir/src/warptest.cpp.o
  ../ext/eigen/Eigen/Cholesky
  ../ext/eigen/Eigen/Core
@@ -1049,4 +1049,4 @@ CMakeFiles/warptest.dir/src/warptest.cpp.o
  ../include/nori/transform.h
  ../include/nori/vector.h
  ../include/nori/warp.h
- /home/haoyan/GAMES202/Assignment2/prt/src/warptest.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/warptest.cpp

@@ -60,8 +60,8 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfAcesFile.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfTimeCodeAttribute.h
  ../ext/openexr/OpenEXR/IlmImf/ImfVecAttribute.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfAcesFile.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfAcesFile.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfAttribute.cpp.o
@@ -86,8 +86,8 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfAttribute.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfIO.h
  ../ext/openexr/OpenEXR/IlmImf/ImfInt64.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfAttribute.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfAttribute.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfB44Compressor.cpp.o
@@ -113,23 +113,23 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfB44Compressor.cpp.o
  ../ext/openexr/IlmBase/Imath/ImathVec.h
  ../ext/openexr/OpenEXR/IlmImf/ImfIO.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfArray.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfB44Compressor.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfB44Compressor.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfChannelList.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCheckedArithmetic.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMisc.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfArray.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfB44Compressor.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfB44Compressor.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfChannelList.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCheckedArithmetic.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMisc.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/IlmImf/b44ExpLogTable.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
@@ -157,7 +157,7 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfBoxAttribute.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfInt64.h
  ../ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfBoxAttribute.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfBoxAttribute.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfCRgbaFile.cpp.o
@@ -208,8 +208,8 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfCRgbaFile.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfTiledRgbaFile.h
  ../ext/openexr/OpenEXR/IlmImf/ImfVecAttribute.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCRgbaFile.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCRgbaFile.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfChannelList.cpp.o
@@ -225,8 +225,8 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfChannelList.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfExport.h
  ../ext/openexr/OpenEXR/IlmImf/ImfName.h
  ../ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfChannelList.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfChannelList.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfChannelListAttribute.cpp.o
@@ -249,7 +249,7 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfChannelListAttribute.c
  ../ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ../ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfChannelListAttribute.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfChannelListAttribute.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfChromaticities.cpp.o
@@ -269,8 +269,8 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfChromaticities.cpp.o
  ../ext/openexr/IlmBase/Imath/ImathVec.h
  ../ext/openexr/OpenEXR/IlmImf/ImfChromaticities.h
  ../ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfChromaticities.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfChromaticities.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfChromaticitiesAttribute.cpp.o
@@ -300,7 +300,7 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfChromaticitiesAttribut
  ../ext/openexr/OpenEXR/IlmImf/ImfInt64.h
  ../ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfChromaticitiesAttribute.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfChromaticitiesAttribute.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfCompositeDeepScanLine.cpp.o
@@ -326,32 +326,32 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfCompositeDeepScanLine.
  ../ext/openexr/IlmBase/Imath/ImathNamespace.h
  ../ext/openexr/IlmBase/Imath/ImathPlatform.h
  ../ext/openexr/IlmBase/Imath/ImathVec.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfChannelList.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompositeDeepScanLine.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompositeDeepScanLine.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepCompositing.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepFrameBuffer.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineInputPart.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfChannelList.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompositeDeepScanLine.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompositeDeepScanLine.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepCompositing.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepFrameBuffer.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineInputPart.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfCompressionAttribute.cpp.o
@@ -363,16 +363,16 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfCompressionAttribute.c
  ../ext/openexr/IlmBase/Iex/IexNamespace.h
  ../ext/openexr/IlmBase/Imath/ImathInt64.h
  ../ext/openexr/IlmBase/Imath/ImathNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressionAttribute.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressionAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressionAttribute.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressionAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfCompressor.cpp.o
@@ -391,40 +391,40 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfCompressor.cpp.o
  ../ext/openexr/IlmBase/Imath/ImathNamespace.h
  ../ext/openexr/IlmBase/Imath/ImathPlatform.h
  ../ext/openexr/IlmBase/Imath/ImathVec.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfB44Compressor.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfChannelList.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCheckedArithmetic.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDwaCompressor.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPizCompressor.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPxr24Compressor.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfRleCompressor.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfZip.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfZipCompressor.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfB44Compressor.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfChannelList.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCheckedArithmetic.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDwaCompressor.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPizCompressor.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPxr24Compressor.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfRleCompressor.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfZip.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfZipCompressor.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfConvert.cpp.o
  ../ext/openexr/IlmBase/Half/half.h
  ../ext/openexr/IlmBase/Half/halfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfConvert.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfConvert.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfConvert.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfConvert.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfDeepCompositing.cpp.o
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepCompositing.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepCompositing.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepCompositing.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepCompositing.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfDeepFrameBuffer.cpp.o
  ../ext/openexr/IlmBase/Iex/Iex.h
@@ -435,13 +435,13 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfDeepFrameBuffer.cpp.o
  ../ext/openexr/IlmBase/Iex/IexMathExc.h
  ../ext/openexr/IlmBase/Iex/IexNamespace.h
  ../ext/openexr/IlmBase/Iex/IexThrowErrnoExc.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepFrameBuffer.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepFrameBuffer.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepFrameBuffer.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepFrameBuffer.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfDeepImageStateAttribute.cpp.o
@@ -462,7 +462,7 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfDeepImageStateAttribut
  ../ext/openexr/OpenEXR/IlmImf/ImfInt64.h
  ../ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepImageStateAttribute.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepImageStateAttribute.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfDeepScanLineInputFile.cpp.o
@@ -512,16 +512,16 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfDeepScanLineInputFile.
  ../ext/openexr/OpenEXR/IlmImf/ImfThreading.h
  ../ext/openexr/OpenEXR/IlmImf/ImfVersion.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepFrameBuffer.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineInputFile.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputPartData.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputStreamMutex.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepFrameBuffer.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineInputFile.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputPartData.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputStreamMutex.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfDeepScanLineInputPart.cpp.o
@@ -540,28 +540,28 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfDeepScanLineInputPart.
  ../ext/openexr/IlmBase/Imath/ImathNamespace.h
  ../ext/openexr/IlmBase/Imath/ImathPlatform.h
  ../ext/openexr/IlmBase/Imath/ImathVec.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineInputPart.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineInputPart.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineInputPart.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineInputPart.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfDeepScanLineOutputFile.cpp.o
@@ -619,11 +619,11 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfDeepScanLineOutputFile
  ../ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
  ../ext/openexr/OpenEXR/IlmImf/ImfVersion.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepFrameBuffer.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineOutputFile.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputPartData.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputStreamMutex.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepFrameBuffer.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineOutputFile.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputPartData.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputStreamMutex.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfDeepScanLineOutputPart.cpp.o
@@ -642,26 +642,26 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfDeepScanLineOutputPart
  ../ext/openexr/IlmBase/Imath/ImathNamespace.h
  ../ext/openexr/IlmBase/Imath/ImathPlatform.h
  ../ext/openexr/IlmBase/Imath/ImathVec.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineOutputPart.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineOutputPart.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineOutputPart.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineOutputPart.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfDeepTiledInputFile.cpp.o
@@ -720,10 +720,10 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfDeepTiledInputFile.cpp
  ../ext/openexr/OpenEXR/IlmImf/ImfTiledMisc.h
  ../ext/openexr/OpenEXR/IlmImf/ImfVersion.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledInputFile.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputPartData.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputStreamMutex.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledInputFile.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputPartData.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputStreamMutex.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfDeepTiledInputPart.cpp.o
@@ -742,29 +742,29 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfDeepTiledInputPart.cpp
  ../ext/openexr/IlmBase/Imath/ImathNamespace.h
  ../ext/openexr/IlmBase/Imath/ImathPlatform.h
  ../ext/openexr/IlmBase/Imath/ImathVec.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepFrameBuffer.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledInputPart.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledInputPart.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepFrameBuffer.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledInputPart.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledInputPart.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfDeepTiledOutputFile.cpp.o
@@ -792,44 +792,44 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfDeepTiledOutputFile.cp
  ../ext/openexr/IlmBase/Imath/ImathNamespace.h
  ../ext/openexr/IlmBase/Imath/ImathPlatform.h
  ../ext/openexr/IlmBase/Imath/ImathVec.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfArray.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfChannelList.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepFrameBuffer.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledInputPart.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledOutputFile.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMisc.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputPartData.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputStreamMutex.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPartType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPreviewImage.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPreviewImageAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfStdIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescriptionAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileOffsets.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledMisc.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfArray.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfChannelList.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepFrameBuffer.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledInputPart.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledOutputFile.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMisc.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputPartData.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputStreamMutex.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPartType.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPreviewImage.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPreviewImageAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfStdIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescriptionAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileOffsets.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledMisc.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfDeepTiledOutputPart.cpp.o
@@ -848,29 +848,29 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfDeepTiledOutputPart.cp
  ../ext/openexr/IlmBase/Imath/ImathNamespace.h
  ../ext/openexr/IlmBase/Imath/ImathPlatform.h
  ../ext/openexr/IlmBase/Imath/ImathVec.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepFrameBuffer.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledOutputPart.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledOutputPart.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepFrameBuffer.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledOutputPart.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledOutputPart.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfDoubleAttribute.cpp.o
@@ -890,7 +890,7 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfDoubleAttribute.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfInt64.h
  ../ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDoubleAttribute.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDoubleAttribute.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfDwaCompressor.cpp.o
@@ -913,51 +913,51 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfDwaCompressor.cpp.o
  ../ext/openexr/IlmBase/Imath/ImathPlatform.h
  ../ext/openexr/IlmBase/Imath/ImathShear.h
  ../ext/openexr/IlmBase/Imath/ImathVec.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfArray.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfBoxAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfChannelList.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfChromaticities.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfChromaticitiesAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepImageState.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepImageStateAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDwaCompressor.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDwaCompressor.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDwaCompressorSimd.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfEnvmap.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfEnvmapAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFloatAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHuf.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfIntAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfKeyCode.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfKeyCodeAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMatrixAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMisc.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfRational.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfRationalAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfRle.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfSimd.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfStandardAttributes.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfStringAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfStringVectorAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfSystemSpecific.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTimeCode.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTimeCodeAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfVecAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfZip.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfArray.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfBoxAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfChannelList.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfChromaticities.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfChromaticitiesAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepImageState.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepImageStateAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDwaCompressor.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDwaCompressor.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDwaCompressorSimd.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfEnvmap.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfEnvmapAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFloatAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHuf.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfIntAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfKeyCode.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfKeyCodeAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMatrixAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMisc.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfRational.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfRationalAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfRle.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfSimd.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfStandardAttributes.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfStringAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfStringVectorAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfSystemSpecific.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTimeCode.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTimeCodeAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfVecAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfZip.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/IlmImf/dwaLookups.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
@@ -975,10 +975,10 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfEnvmap.cpp.o
  ../ext/openexr/IlmBase/Imath/ImathNamespace.h
  ../ext/openexr/IlmBase/Imath/ImathPlatform.h
  ../ext/openexr/IlmBase/Imath/ImathVec.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfEnvmap.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfEnvmap.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfEnvmap.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfEnvmap.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfEnvmapAttribute.cpp.o
@@ -1006,7 +1006,7 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfEnvmapAttribute.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfInt64.h
  ../ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfEnvmapAttribute.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfEnvmapAttribute.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfFastHuf.cpp.o
@@ -1020,10 +1020,10 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfFastHuf.cpp.o
  ../ext/openexr/IlmBase/Iex/IexThrowErrnoExc.h
  ../ext/openexr/IlmBase/Imath/ImathInt64.h
  ../ext/openexr/IlmBase/Imath/ImathNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFastHuf.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFastHuf.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFastHuf.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFastHuf.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfFloatAttribute.cpp.o
@@ -1043,7 +1043,7 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfFloatAttribute.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfInt64.h
  ../ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFloatAttribute.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFloatAttribute.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfFloatVectorAttribute.cpp.o
@@ -1063,7 +1063,7 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfFloatVectorAttribute.c
  ../ext/openexr/OpenEXR/IlmImf/ImfInt64.h
  ../ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFloatVectorAttribute.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFloatVectorAttribute.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfFrameBuffer.cpp.o
@@ -1079,8 +1079,8 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfFrameBuffer.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
  ../ext/openexr/OpenEXR/IlmImf/ImfName.h
  ../ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfFramesPerSecond.cpp.o
@@ -1092,8 +1092,8 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfFramesPerSecond.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfExport.h
  ../ext/openexr/OpenEXR/IlmImf/ImfFramesPerSecond.h
  ../ext/openexr/OpenEXR/IlmImf/ImfRational.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFramesPerSecond.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFramesPerSecond.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfGenericInputFile.cpp.o
@@ -1119,17 +1119,17 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfGenericInputFile.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfInt64.h
  ../ext/openexr/OpenEXR/IlmImf/ImfVersion.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericInputFile.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericInputFile.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfGenericOutputFile.cpp.o
@@ -1164,19 +1164,19 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfGenericOutputFile.cpp.
  ../ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
  ../ext/openexr/OpenEXR/IlmImf/ImfTimeCode.h
  ../ext/openexr/OpenEXR/IlmImf/ImfTimeCodeAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfHeader.cpp.o
@@ -1254,8 +1254,8 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfHeader.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfVersion.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
  ../ext/openexr/OpenEXR/IlmImf/ImfZip.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfHuf.cpp.o
@@ -1272,10 +1272,10 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfHuf.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfExport.h
  ../ext/openexr/OpenEXR/IlmImf/ImfHuf.h
  ../ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfAutoArray.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFastHuf.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHuf.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfAutoArray.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFastHuf.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHuf.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfIO.cpp.o
@@ -1292,8 +1292,8 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfIO.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfExport.h
  ../ext/openexr/OpenEXR/IlmImf/ImfIO.h
  ../ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfInputFile.cpp.o
@@ -1323,37 +1323,37 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfInputFile.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfCompositeDeepScanLine.h
  ../ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineInputFile.h
  ../ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfArray.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfChannelList.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputFile.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputPartData.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputStreamMutex.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMisc.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPartType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfScanLineInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfStdIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfArray.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfChannelList.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputFile.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputPartData.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputStreamMutex.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMisc.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPartType.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfScanLineInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfStdIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfInputPart.cpp.o
@@ -1372,31 +1372,31 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfInputPart.cpp.o
  ../ext/openexr/IlmBase/Imath/ImathNamespace.h
  ../ext/openexr/IlmBase/Imath/ImathPlatform.h
  ../ext/openexr/IlmBase/Imath/ImathVec.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputPart.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputPart.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputPart.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputPart.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputPart.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputPart.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfInputPartData.cpp.o
@@ -1415,19 +1415,19 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfInputPartData.cpp.o
  ../ext/openexr/IlmBase/Imath/ImathNamespace.h
  ../ext/openexr/IlmBase/Imath/ImathPlatform.h
  ../ext/openexr/IlmBase/Imath/ImathVec.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputPartData.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputPartData.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputStreamMutex.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputPartData.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputPartData.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputStreamMutex.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfIntAttribute.cpp.o
@@ -1447,7 +1447,7 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfIntAttribute.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfIntAttribute.h
  ../ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfIntAttribute.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfIntAttribute.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfKeyCode.cpp.o
@@ -1461,8 +1461,8 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfKeyCode.cpp.o
  ../ext/openexr/IlmBase/Iex/IexThrowErrnoExc.h
  ../ext/openexr/OpenEXR/IlmImf/ImfExport.h
  ../ext/openexr/OpenEXR/IlmImf/ImfKeyCode.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfKeyCode.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfKeyCode.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfKeyCodeAttribute.cpp.o
@@ -1483,7 +1483,7 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfKeyCodeAttribute.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfKeyCodeAttribute.h
  ../ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfKeyCodeAttribute.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfKeyCodeAttribute.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfLineOrderAttribute.cpp.o
@@ -1495,16 +1495,16 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfLineOrderAttribute.cpp
  ../ext/openexr/IlmBase/Iex/IexNamespace.h
  ../ext/openexr/IlmBase/Imath/ImathInt64.h
  ../ext/openexr/IlmBase/Imath/ImathNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrderAttribute.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrderAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrderAttribute.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrderAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfLut.cpp.o
@@ -1537,8 +1537,8 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfLut.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfRgbaFile.h
  ../ext/openexr/OpenEXR/IlmImf/ImfThreading.h
  ../ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLut.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLut.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfMatrixAttribute.cpp.o
@@ -1567,7 +1567,7 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfMatrixAttribute.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfMatrixAttribute.h
  ../ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMatrixAttribute.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMatrixAttribute.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfMisc.cpp.o
@@ -1610,8 +1610,8 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfMisc.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfStdIO.h
  ../ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMisc.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMisc.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfMultiPartInputFile.cpp.o
@@ -1641,50 +1641,50 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfMultiPartInputFile.cpp
  ../ext/openexr/IlmBase/Imath/ImathPlatform.h
  ../ext/openexr/IlmBase/Imath/ImathShear.h
  ../ext/openexr/IlmBase/Imath/ImathVec.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfArray.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfBoxAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfChromaticities.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfChromaticitiesAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepFrameBuffer.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFloatAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputPartData.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputStreamMutex.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMisc.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartInputFile.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPartType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfScanLineInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfStdIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileOffsets.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledMisc.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTimeCode.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTimeCodeAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfArray.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfBoxAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfChromaticities.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfChromaticitiesAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepFrameBuffer.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFloatAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputPartData.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputStreamMutex.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMisc.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartInputFile.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPartType.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfScanLineInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfStdIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileOffsets.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledMisc.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTimeCode.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTimeCodeAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfMultiPartOutputFile.cpp.o
@@ -1713,42 +1713,42 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfMultiPartOutputFile.cp
  ../ext/openexr/IlmBase/Imath/ImathPlatform.h
  ../ext/openexr/IlmBase/Imath/ImathShear.h
  ../ext/openexr/IlmBase/Imath/ImathVec.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfArray.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfBoxAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfChromaticities.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfChromaticitiesAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFloatAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMisc.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartOutputFile.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputPartData.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputStreamMutex.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPartType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfStdIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTimeCode.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTimeCodeAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfArray.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfBoxAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfChromaticities.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfChromaticitiesAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepScanLineOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepTiledOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFloatAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMisc.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartOutputFile.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputPartData.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputStreamMutex.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPartType.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfStdIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTimeCode.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTimeCodeAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfMultiView.cpp.o
@@ -1771,8 +1771,8 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfMultiView.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
  ../ext/openexr/OpenEXR/IlmImf/ImfStringVectorAttribute.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiView.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiView.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfOpaqueAttribute.cpp.o
@@ -1796,8 +1796,8 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfOpaqueAttribute.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfInt64.h
  ../ext/openexr/OpenEXR/IlmImf/ImfOpaqueAttribute.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfOpaqueAttribute.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfOpaqueAttribute.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfOutputFile.cpp.o
@@ -1852,15 +1852,15 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfOutputFile.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
  ../ext/openexr/OpenEXR/IlmImf/ImfTiledOutputFile.h
  ../ext/openexr/OpenEXR/IlmImf/ImfVersion.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputPart.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputFile.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputPart.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputPartData.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputStreamMutex.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputPart.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputFile.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputPart.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputPartData.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputStreamMutex.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfOutputPart.cpp.o
@@ -1879,26 +1879,26 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfOutputPart.cpp.o
  ../ext/openexr/IlmBase/Imath/ImathNamespace.h
  ../ext/openexr/IlmBase/Imath/ImathPlatform.h
  ../ext/openexr/IlmBase/Imath/ImathVec.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputPart.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputPart.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputPart.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputPart.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfOutputPartData.cpp.o
@@ -1914,24 +1914,24 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfOutputPartData.cpp.o
  ../ext/openexr/IlmBase/Imath/ImathNamespace.h
  ../ext/openexr/IlmBase/Imath/ImathPlatform.h
  ../ext/openexr/IlmBase/Imath/ImathVec.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputPartData.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputPartData.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputPartData.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputPartData.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfPartType.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfExport.h
  ../ext/openexr/OpenEXR/IlmImf/ImfPartType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPartType.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPartType.cpp
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfPizCompressor.cpp.o
  ../ext/openexr/IlmBase/Half/half.h
@@ -1954,28 +1954,28 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfPizCompressor.cpp.o
  ../ext/openexr/IlmBase/Imath/ImathNamespace.h
  ../ext/openexr/IlmBase/Imath/ImathPlatform.h
  ../ext/openexr/IlmBase/Imath/ImathVec.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfArray.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfAutoArray.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfChannelList.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCheckedArithmetic.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHuf.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMisc.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPizCompressor.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPizCompressor.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfWav.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfArray.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfAutoArray.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfChannelList.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCheckedArithmetic.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHuf.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMisc.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPizCompressor.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPizCompressor.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfWav.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfPreviewImage.cpp.o
@@ -1987,11 +1987,11 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfPreviewImage.cpp.o
  ../ext/openexr/IlmBase/Iex/IexMathExc.h
  ../ext/openexr/IlmBase/Iex/IexNamespace.h
  ../ext/openexr/IlmBase/Iex/IexThrowErrnoExc.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCheckedArithmetic.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPreviewImage.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPreviewImage.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCheckedArithmetic.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPreviewImage.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPreviewImage.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfPreviewImageAttribute.cpp.o
@@ -2012,7 +2012,7 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfPreviewImageAttribute.
  ../ext/openexr/OpenEXR/IlmImf/ImfPreviewImage.h
  ../ext/openexr/OpenEXR/IlmImf/ImfPreviewImageAttribute.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPreviewImageAttribute.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPreviewImageAttribute.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfPxr24Compressor.cpp.o
@@ -2036,30 +2036,30 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfPxr24Compressor.cpp.o
  ../ext/openexr/IlmBase/Imath/ImathNamespace.h
  ../ext/openexr/IlmBase/Imath/ImathPlatform.h
  ../ext/openexr/IlmBase/Imath/ImathVec.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfArray.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfChannelList.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCheckedArithmetic.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMisc.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPxr24Compressor.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPxr24Compressor.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfArray.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfChannelList.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCheckedArithmetic.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMisc.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPxr24Compressor.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPxr24Compressor.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfRational.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfExport.h
  ../ext/openexr/OpenEXR/IlmImf/ImfRational.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfRational.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfRational.cpp
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfRationalAttribute.cpp.o
  ../ext/openexr/IlmBase/Half/half.h
@@ -2079,7 +2079,7 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfRationalAttribute.cpp.
  ../ext/openexr/OpenEXR/IlmImf/ImfRational.h
  ../ext/openexr/OpenEXR/IlmImf/ImfRationalAttribute.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfRationalAttribute.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfRationalAttribute.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfRgbaFile.cpp.o
@@ -2151,8 +2151,8 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfRgbaFile.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfVecAttribute.h
  ../ext/openexr/OpenEXR/IlmImf/ImfVersion.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfRgbaFile.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfRgbaFile.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfRgbaYca.cpp.o
@@ -2176,15 +2176,15 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfRgbaYca.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfExport.h
  ../ext/openexr/OpenEXR/IlmImf/ImfRgba.h
  ../ext/openexr/OpenEXR/IlmImf/ImfRgbaYca.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfRgbaYca.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfRgbaYca.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfRle.cpp.o
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfRle.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfRle.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfRle.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfRle.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfRleCompressor.cpp.o
  ../ext/openexr/IlmBase/Iex/Iex.h
@@ -2203,15 +2203,15 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfRleCompressor.cpp.o
  ../ext/openexr/IlmBase/Imath/ImathNamespace.h
  ../ext/openexr/IlmBase/Imath/ImathPlatform.h
  ../ext/openexr/IlmBase/Imath/ImathVec.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCheckedArithmetic.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfRle.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfRleCompressor.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfRleCompressor.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCheckedArithmetic.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfRle.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfRleCompressor.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfRleCompressor.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfScanLineInputFile.cpp.o
@@ -2247,51 +2247,51 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfScanLineInputFile.cpp.
  ../ext/openexr/OpenEXR/IlmImf/ImfPartType.h
  ../ext/openexr/OpenEXR/IlmImf/ImfThreading.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfArray.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfBoxAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfChannelList.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfChromaticities.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfChromaticitiesAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepImageState.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepImageStateAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfEnvmap.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfEnvmapAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFloatAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputPartData.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputStreamMutex.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfKeyCode.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfKeyCodeAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMatrixAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMisc.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfOptimizedPixelReading.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfRational.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfRationalAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfScanLineInputFile.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfScanLineInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfSimd.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfStandardAttributes.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfStdIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfStringAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfStringVectorAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfSystemSpecific.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTimeCode.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTimeCodeAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfVecAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfArray.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfBoxAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfChannelList.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfChromaticities.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfChromaticitiesAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepImageState.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfDeepImageStateAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfEnvmap.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfEnvmapAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFloatAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputPartData.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputStreamMutex.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfKeyCode.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfKeyCodeAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMatrixAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMisc.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfOptimizedPixelReading.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfRational.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfRationalAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfScanLineInputFile.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfScanLineInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfSimd.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfStandardAttributes.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfStdIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfStringAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfStringVectorAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfSystemSpecific.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTimeCode.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTimeCodeAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfVecAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfStandardAttributes.cpp.o
@@ -2343,8 +2343,8 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfStandardAttributes.cpp
  ../ext/openexr/OpenEXR/IlmImf/ImfTimeCodeAttribute.h
  ../ext/openexr/OpenEXR/IlmImf/ImfVecAttribute.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfStandardAttributes.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfStandardAttributes.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfStdIO.cpp.o
@@ -2362,8 +2362,8 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfStdIO.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfIO.h
  ../ext/openexr/OpenEXR/IlmImf/ImfInt64.h
  ../ext/openexr/OpenEXR/IlmImf/ImfStdIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfStdIO.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfStdIO.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfStringAttribute.cpp.o
@@ -2383,7 +2383,7 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfStringAttribute.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ../ext/openexr/OpenEXR/IlmImf/ImfStringAttribute.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfStringAttribute.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfStringAttribute.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfStringVectorAttribute.cpp.o
@@ -2403,15 +2403,15 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfStringVectorAttribute.
  ../ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ../ext/openexr/OpenEXR/IlmImf/ImfStringVectorAttribute.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfStringVectorAttribute.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfStringVectorAttribute.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfSystemSpecific.cpp.o
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfSimd.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfSystemSpecific.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfSystemSpecific.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfSimd.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfSystemSpecific.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfSystemSpecific.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfTestFile.cpp.o
  ../ext/openexr/IlmBase/Half/half.h
@@ -2430,18 +2430,18 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfTestFile.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfTestFile.h
  ../ext/openexr/OpenEXR/IlmImf/ImfVersion.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTestFile.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTestFile.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfThreading.cpp.o
  ../ext/openexr/IlmBase/IlmThread/IlmThreadExport.h
  ../ext/openexr/IlmBase/IlmThread/IlmThreadNamespace.h
  ../ext/openexr/IlmBase/IlmThread/IlmThreadPool.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfTileDescriptionAttribute.cpp.o
@@ -2462,7 +2462,7 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfTileDescriptionAttribu
  ../ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
  ../ext/openexr/OpenEXR/IlmImf/ImfTileDescriptionAttribute.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescriptionAttribute.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescriptionAttribute.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfTileOffsets.cpp.o
@@ -2485,8 +2485,8 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfTileOffsets.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
  ../ext/openexr/OpenEXR/IlmImf/ImfTileOffsets.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileOffsets.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileOffsets.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfTiledInputFile.cpp.o
@@ -2514,40 +2514,40 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfTiledInputFile.cpp.o
  ../ext/openexr/IlmBase/Imath/ImathNamespace.h
  ../ext/openexr/IlmBase/Imath/ImathPlatform.h
  ../ext/openexr/IlmBase/Imath/ImathVec.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfArray.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfChannelList.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfConvert.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputPartData.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputStreamMutex.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMisc.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPartType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfStdIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescriptionAttribute.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileOffsets.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledInputFile.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledMisc.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfArray.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfChannelList.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfConvert.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputPartData.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInputStreamMutex.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMisc.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPartType.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfStdIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescriptionAttribute.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileOffsets.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledInputFile.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledMisc.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfTiledInputPart.cpp.o
@@ -2566,28 +2566,28 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfTiledInputPart.cpp.o
  ../ext/openexr/IlmBase/Imath/ImathNamespace.h
  ../ext/openexr/IlmBase/Imath/ImathPlatform.h
  ../ext/openexr/IlmBase/Imath/ImathVec.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledInputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledInputPart.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledInputPart.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledInputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledInputPart.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledInputPart.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfTiledMisc.cpp.o
@@ -2622,8 +2622,8 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfTiledMisc.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
  ../ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
  ../ext/openexr/OpenEXR/IlmImf/ImfTiledMisc.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledMisc.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledMisc.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfTiledOutputFile.cpp.o
@@ -2688,10 +2688,10 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfTiledOutputFile.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfTiledOutputFile.h
  ../ext/openexr/OpenEXR/IlmImf/ImfVersion.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputPartData.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputStreamMutex.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledOutputFile.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputPartData.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfOutputStreamMutex.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledOutputFile.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfTiledOutputPart.cpp.o
@@ -2710,26 +2710,26 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfTiledOutputPart.cpp.o
  ../ext/openexr/IlmBase/Imath/ImathNamespace.h
  ../ext/openexr/IlmBase/Imath/ImathPlatform.h
  ../ext/openexr/IlmBase/Imath/ImathVec.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledOutputFile.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledOutputPart.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledOutputPart.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfFrameBuffer.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfGenericOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfHeader.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfIO.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfInt64.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfLineOrder.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfMultiPartOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfName.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfPixelType.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfThreading.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTileDescription.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledOutputFile.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledOutputPart.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledOutputPart.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfXdr.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfTiledRgbaFile.cpp.o
@@ -2803,8 +2803,8 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfTiledRgbaFile.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfVecAttribute.h
  ../ext/openexr/OpenEXR/IlmImf/ImfVersion.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledRgbaFile.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTiledRgbaFile.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfTimeCode.cpp.o
@@ -2818,8 +2818,8 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfTimeCode.cpp.o
  ../ext/openexr/IlmBase/Iex/IexThrowErrnoExc.h
  ../ext/openexr/OpenEXR/IlmImf/ImfExport.h
  ../ext/openexr/OpenEXR/IlmImf/ImfTimeCode.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTimeCode.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTimeCode.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfTimeCodeAttribute.cpp.o
@@ -2840,7 +2840,7 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfTimeCodeAttribute.cpp.
  ../ext/openexr/OpenEXR/IlmImf/ImfTimeCode.h
  ../ext/openexr/OpenEXR/IlmImf/ImfTimeCodeAttribute.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfTimeCodeAttribute.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfTimeCodeAttribute.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfVecAttribute.cpp.o
@@ -2866,20 +2866,20 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfVecAttribute.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
  ../ext/openexr/OpenEXR/IlmImf/ImfVecAttribute.h
  ../ext/openexr/OpenEXR/IlmImf/ImfXdr.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfVecAttribute.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfVecAttribute.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfVersion.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfExport.h
  ../ext/openexr/OpenEXR/IlmImf/ImfVersion.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfVersion.cpp
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfWav.cpp.o
  ../ext/openexr/OpenEXR/IlmImf/ImfExport.h
  ../ext/openexr/OpenEXR/IlmImf/ImfWav.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfWav.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfWav.cpp
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfZip.cpp.o
  ../ext/openexr/IlmBase/Iex/Iex.h
@@ -2890,10 +2890,10 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfZip.cpp.o
  ../ext/openexr/IlmBase/Iex/IexMathExc.h
  ../ext/openexr/IlmBase/Iex/IexNamespace.h
  ../ext/openexr/IlmBase/Iex/IexThrowErrnoExc.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCheckedArithmetic.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfZip.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfZip.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCheckedArithmetic.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfZip.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfZip.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfZipCompressor.cpp.o
@@ -2913,14 +2913,14 @@ ext_build/openexr/OpenEXR/IlmImf/CMakeFiles/IlmImf.dir/ImfZipCompressor.cpp.o
  ../ext/openexr/IlmBase/Imath/ImathNamespace.h
  ../ext/openexr/IlmBase/Imath/ImathPlatform.h
  ../ext/openexr/IlmBase/Imath/ImathVec.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCheckedArithmetic.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfZip.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfZipCompressor.cpp
- /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfZipCompressor.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCheckedArithmetic.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompression.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfCompressor.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfExport.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfForward.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfZip.h
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfZipCompressor.cpp
+ /home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfZipCompressor.h
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h

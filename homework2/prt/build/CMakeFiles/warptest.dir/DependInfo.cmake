@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/haoyan/GAMES202/Assignment2/prt/src/common.cpp" "/home/haoyan/GAMES202/Assignment2/prt/build/CMakeFiles/warptest.dir/src/common.cpp.o"
-  "/home/haoyan/GAMES202/Assignment2/prt/src/microfacet.cpp" "/home/haoyan/GAMES202/Assignment2/prt/build/CMakeFiles/warptest.dir/src/microfacet.cpp.o"
-  "/home/haoyan/GAMES202/Assignment2/prt/src/object.cpp" "/home/haoyan/GAMES202/Assignment2/prt/build/CMakeFiles/warptest.dir/src/object.cpp.o"
-  "/home/haoyan/GAMES202/Assignment2/prt/src/proplist.cpp" "/home/haoyan/GAMES202/Assignment2/prt/build/CMakeFiles/warptest.dir/src/proplist.cpp.o"
-  "/home/haoyan/GAMES202/Assignment2/prt/src/warp.cpp" "/home/haoyan/GAMES202/Assignment2/prt/build/CMakeFiles/warptest.dir/src/warp.cpp.o"
-  "/home/haoyan/GAMES202/Assignment2/prt/src/warptest.cpp" "/home/haoyan/GAMES202/Assignment2/prt/build/CMakeFiles/warptest.dir/src/warptest.cpp.o"
+  "/home/haoyan/GAMES202/homework2/prt/src/common.cpp" "/home/haoyan/GAMES202/homework2/prt/build/CMakeFiles/warptest.dir/src/common.cpp.o"
+  "/home/haoyan/GAMES202/homework2/prt/src/microfacet.cpp" "/home/haoyan/GAMES202/homework2/prt/build/CMakeFiles/warptest.dir/src/microfacet.cpp.o"
+  "/home/haoyan/GAMES202/homework2/prt/src/object.cpp" "/home/haoyan/GAMES202/homework2/prt/build/CMakeFiles/warptest.dir/src/object.cpp.o"
+  "/home/haoyan/GAMES202/homework2/prt/src/proplist.cpp" "/home/haoyan/GAMES202/homework2/prt/build/CMakeFiles/warptest.dir/src/proplist.cpp.o"
+  "/home/haoyan/GAMES202/homework2/prt/src/warp.cpp" "/home/haoyan/GAMES202/homework2/prt/build/CMakeFiles/warptest.dir/src/warp.cpp.o"
+  "/home/haoyan/GAMES202/homework2/prt/src/warptest.cpp" "/home/haoyan/GAMES202/homework2/prt/build/CMakeFiles/warptest.dir/src/warptest.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -44,8 +44,8 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/haoyan/GAMES202/Assignment2/prt/build/ext_build/tbb/CMakeFiles/tbb_static.dir/DependInfo.cmake"
-  "/home/haoyan/GAMES202/Assignment2/prt/build/ext_build/nanogui/CMakeFiles/nanogui.dir/DependInfo.cmake"
+  "/home/haoyan/GAMES202/homework2/prt/build/ext_build/tbb/CMakeFiles/tbb_static.dir/DependInfo.cmake"
+  "/home/haoyan/GAMES202/homework2/prt/build/ext_build/nanogui/CMakeFiles/nanogui.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

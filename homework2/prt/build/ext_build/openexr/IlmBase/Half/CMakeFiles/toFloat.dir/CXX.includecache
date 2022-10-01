@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Half/toFloat.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Half/toFloat.cpp
 iostream
 -
 iomanip

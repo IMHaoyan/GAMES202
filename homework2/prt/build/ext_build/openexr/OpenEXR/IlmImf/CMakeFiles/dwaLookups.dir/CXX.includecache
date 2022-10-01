@@ -110,11 +110,11 @@ limits.h
 ImfNamespace.h
 ../ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+/home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
 OpenEXRConfig.h
-/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/OpenEXRConfig.h
+/home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/OpenEXRConfig.h
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/dwaLookups.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/dwaLookups.cpp
 cstddef
 -
 stdio.h
@@ -140,7 +140,7 @@ ImfIO.h
 ImfXdr.h
 -
 ImfNamespace.h
-/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
+/home/haoyan/GAMES202/homework2/prt/ext/openexr/OpenEXR/IlmImf/ImfNamespace.h
 
 ext_build/openexr/IlmBase/config/IlmBaseConfig.h
 

@@ -1318,7 +1318,7 @@ nori/common.h
 nori/sampler.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/src/common.cpp
+/home/haoyan/GAMES202/homework2/prt/src/common.cpp
 nori/object.h
 -
 Eigen/Geometry
@@ -1336,7 +1336,7 @@ windows.h
 sys/sysctl.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/src/microfacet.cpp
+/home/haoyan/GAMES202/homework2/prt/src/microfacet.cpp
 nori/bsdf.h
 -
 nori/frame.h
@@ -1344,15 +1344,15 @@ nori/frame.h
 nori/warp.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/src/object.cpp
+/home/haoyan/GAMES202/homework2/prt/src/object.cpp
 nori/object.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/src/proplist.cpp
+/home/haoyan/GAMES202/homework2/prt/src/proplist.cpp
 nori/proplist.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/src/warp.cpp
+/home/haoyan/GAMES202/homework2/prt/src/warp.cpp
 nori/warp.h
 -
 nori/vector.h
@@ -1360,7 +1360,7 @@ nori/vector.h
 nori/frame.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/src/warptest.cpp
+/home/haoyan/GAMES202/homework2/prt/src/warptest.cpp
 nori/warp.h
 -
 nori/bsdf.h

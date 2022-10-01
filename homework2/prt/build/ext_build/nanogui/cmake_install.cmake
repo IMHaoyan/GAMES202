@@ -1,4 +1,4 @@
-# Install script for directory: /home/haoyan/GAMES202/Assignment2/prt/ext/nanogui
+# Install script for directory: /home/haoyan/GAMES202/homework2/prt/ext/nanogui
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,16 +38,16 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/haoyan/GAMES202/Assignment2/prt/build/ext_build/nanogui/libnanogui.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/haoyan/GAMES202/homework2/prt/build/ext_build/nanogui/libnanogui.a")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/include/nanogui" FILES_MATCHING REGEX "/[^/]*\\.h$")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "/home/haoyan/GAMES202/homework2/prt/ext/nanogui/include/nanogui" FILES_MATCHING REGEX "/[^/]*\\.h$")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/haoyan/GAMES202/Assignment2/prt/build/ext_build/nanogui/ext/glfw/cmake_install.cmake")
+  include("/home/haoyan/GAMES202/homework2/prt/build/ext_build/nanogui/ext/glfw/cmake_install.cmake")
 
 endif()
 

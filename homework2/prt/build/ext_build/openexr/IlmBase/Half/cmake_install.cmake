@@ -1,4 +1,4 @@
-# Install script for directory: /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Half
+# Install script for directory: /home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Half
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,15 +38,15 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/haoyan/GAMES202/Assignment2/prt/build/ext_build/openexr/IlmBase/Half/libHalf.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/haoyan/GAMES202/homework2/prt/build/ext_build/openexr/IlmBase/Half/libHalf.a")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/OpenEXR" TYPE FILE FILES
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Half/half.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Half/halfFunction.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Half/halfExport.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Half/halfLimits.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Half/half.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Half/halfFunction.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Half/halfExport.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Half/halfLimits.h"
     )
 endif()
 

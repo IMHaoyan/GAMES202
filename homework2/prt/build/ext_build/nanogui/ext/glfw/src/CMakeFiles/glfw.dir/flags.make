@@ -6,5 +6,5 @@ C_FLAGS = -O3 -DNDEBUG
 
 C_DEFINES = 
 
-C_INCLUDES = -I/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/ext/glfw/include 
+C_INCLUDES = -I/home/haoyan/GAMES202/homework2/prt/ext/nanogui/ext/glfw/include 
 

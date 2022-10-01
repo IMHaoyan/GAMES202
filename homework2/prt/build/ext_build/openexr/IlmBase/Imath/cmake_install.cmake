@@ -1,4 +1,4 @@
-# Install script for directory: /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath
+# Install script for directory: /home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,44 +38,44 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/haoyan/GAMES202/Assignment2/prt/build/ext_build/openexr/IlmBase/Imath/libImath.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/haoyan/GAMES202/homework2/prt/build/ext_build/openexr/IlmBase/Imath/libImath.a")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/OpenEXR" TYPE FILE FILES
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathBoxAlgo.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathBox.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathColorAlgo.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathColor.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathEuler.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathExc.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathExport.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathForward.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathFrame.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathFrustum.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathFrustumTest.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathFun.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathGL.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathGLU.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathHalfLimits.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathInt64.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathInterval.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathLimits.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathLineAlgo.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathLine.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathMath.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathMatrixAlgo.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathMatrix.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathNamespace.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathPlane.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathPlatform.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathQuat.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathRandom.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathRoots.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathShear.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathSphere.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathVecAlgo.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/Imath/ImathVec.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathBoxAlgo.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathBox.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathColorAlgo.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathColor.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathEuler.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathExc.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathExport.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathForward.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathFrame.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathFrustum.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathFrustumTest.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathFun.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathGL.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathGLU.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathHalfLimits.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathInt64.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathInterval.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathLimits.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathLineAlgo.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathLine.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathMath.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathMatrixAlgo.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathMatrix.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathNamespace.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathPlane.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathPlatform.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathQuat.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathRandom.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathRoots.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathShear.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathSphere.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathVecAlgo.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/Imath/ImathVec.h"
     )
 endif()
 

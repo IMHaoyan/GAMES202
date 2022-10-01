@@ -1,4 +1,4 @@
-# Install script for directory: /home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/ext/glfw
+# Install script for directory: /home/haoyan/GAMES202/homework2/prt/ext/nanogui/ext/glfw
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/haoyan/GAMES202/Assignment2/prt/build/ext_build/nanogui/ext/glfw/src/cmake_install.cmake")
+  include("/home/haoyan/GAMES202/homework2/prt/build/ext_build/nanogui/ext/glfw/src/cmake_install.cmake")
 
 endif()
 

@@ -1,4 +1,4 @@
-# Install script for directory: /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/IlmThread
+# Install script for directory: /home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/IlmThread
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,18 +38,18 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/haoyan/GAMES202/Assignment2/prt/build/ext_build/openexr/IlmBase/IlmThread/libIlmThread.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/haoyan/GAMES202/homework2/prt/build/ext_build/openexr/IlmBase/IlmThread/libIlmThread.a")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/OpenEXR" TYPE FILE FILES
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/IlmThread/IlmThreadPool.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/IlmThread/IlmThread.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/IlmThread/IlmThreadSemaphore.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/IlmThread/IlmThreadMutex.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/IlmThread/IlmThreadNamespace.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/IlmThread/IlmThreadExport.h"
-    "/home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase/IlmThread/IlmThreadForward.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/IlmThread/IlmThreadPool.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/IlmThread/IlmThread.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/IlmThread/IlmThreadSemaphore.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/IlmThread/IlmThreadMutex.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/IlmThread/IlmThreadNamespace.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/IlmThread/IlmThreadExport.h"
+    "/home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase/IlmThread/IlmThreadForward.h"
     )
 endif()
 

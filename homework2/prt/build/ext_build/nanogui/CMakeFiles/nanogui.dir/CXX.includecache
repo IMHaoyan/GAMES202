@@ -322,11 +322,11 @@ algorithm
 nanogui/widget.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/build/ext_build/nanogui/nanogui_resources.cpp
+/home/haoyan/GAMES202/homework2/prt/build/ext_build/nanogui/nanogui_resources.cpp
 stdint.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/button.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/button.cpp
 nanogui/button.h
 -
 nanogui/popupbutton.h
@@ -336,7 +336,7 @@ nanogui/theme.h
 nanogui/opengl.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/canvas.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/canvas.cpp
 nanogui/screen.h
 -
 nanogui/canvas.h
@@ -350,9 +350,9 @@ nanogui/theme.h
 nanogui/opengl.h
 -
 opengl_check.h
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/opengl_check.h
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/opengl_check.h
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/checkbox.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/checkbox.cpp
 nanogui/checkbox.h
 -
 nanogui/opengl.h
@@ -360,7 +360,7 @@ nanogui/opengl.h
 nanogui/theme.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/colorpicker.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/colorpicker.cpp
 nanogui/colorpicker.h
 -
 nanogui/layout.h
@@ -368,7 +368,7 @@ nanogui/layout.h
 nanogui/colorwheel.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/colorwheel.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/colorwheel.cpp
 nanogui/colorwheel.h
 -
 nanogui/theme.h
@@ -376,7 +376,7 @@ nanogui/theme.h
 nanogui/opengl.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/combobox.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/combobox.cpp
 nanogui/combobox.h
 -
 nanogui/layout.h
@@ -386,7 +386,7 @@ nanogui/vscrollpanel.h
 cassert
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/common.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/common.cpp
 nanogui/screen.h
 -
 windows.h
@@ -414,7 +414,7 @@ dirent.h
 emscripten/emscripten.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/graph.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/graph.cpp
 nanogui/graph.h
 -
 nanogui/theme.h
@@ -422,13 +422,13 @@ nanogui/theme.h
 nanogui/opengl.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/imagepanel.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/imagepanel.cpp
 nanogui/imagepanel.h
 -
 nanogui/opengl.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/imageview.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/imageview.cpp
 nanogui/imageview.h
 -
 nanogui/renderpass.h
@@ -444,7 +444,7 @@ nanogui/opengl.h
 nanogui_resources.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/label.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/label.cpp
 nanogui/label.h
 -
 nanogui/theme.h
@@ -452,7 +452,7 @@ nanogui/theme.h
 nanogui/opengl.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/layout.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/layout.cpp
 nanogui/layout.h
 -
 nanogui/widget.h
@@ -466,7 +466,7 @@ nanogui/label.h
 numeric
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/messagedialog.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/messagedialog.cpp
 nanogui/messagedialog.h
 -
 nanogui/layout.h
@@ -476,13 +476,13 @@ nanogui/button.h
 nanogui/label.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/opengl.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/opengl.cpp
 nanogui/opengl.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/opengl_check.h
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/opengl_check.h
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/popup.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/popup.cpp
 nanogui/popup.h
 -
 nanogui/theme.h
@@ -490,7 +490,7 @@ nanogui/theme.h
 nanogui/opengl.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/popupbutton.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/popupbutton.cpp
 nanogui/popupbutton.h
 -
 nanogui/theme.h
@@ -500,13 +500,13 @@ nanogui/screen.h
 nanogui/opengl.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/progressbar.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/progressbar.cpp
 nanogui/progressbar.h
 -
 nanogui/opengl.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/renderpass_gl.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/renderpass_gl.cpp
 nanogui/renderpass.h
 -
 nanogui/screen.h
@@ -516,9 +516,9 @@ nanogui/opengl.h
 nanogui/texture.h
 -
 opengl_check.h
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/opengl_check.h
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/opengl_check.h
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/screen.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/screen.cpp
 nanogui/screen.h
 -
 nanogui/theme.h
@@ -546,17 +546,17 @@ GLFW/glfw3native.h
 nanovg_gl.h
 -
 opengl_check.h
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/opengl_check.h
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/opengl_check.h
 nanovg_mtl.h
 -
 GLFW/glfw3native.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/shader.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/shader.cpp
 nanogui/shader.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/shader_gl.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/shader_gl.cpp
 nanogui/shader.h
 -
 nanogui/opengl.h
@@ -568,9 +568,9 @@ nanogui/texture.h
 nanogui/renderpass.h
 -
 opengl_check.h
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/opengl_check.h
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/opengl_check.h
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/slider.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/slider.cpp
 nanogui/slider.h
 -
 nanogui/theme.h
@@ -578,7 +578,7 @@ nanogui/theme.h
 nanogui/opengl.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/tabwidget.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/tabwidget.cpp
 nanogui/tabwidget.h
 -
 nanogui/theme.h
@@ -596,7 +596,7 @@ nanogui/opengl.h
 nanogui/icons.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/textarea.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/textarea.cpp
 nanogui/textarea.h
 -
 nanogui/opengl.h
@@ -608,7 +608,7 @@ nanogui/screen.h
 nanogui/vscrollpanel.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/textbox.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/textbox.cpp
 nanogui/window.h
 -
 nanogui/screen.h
@@ -624,7 +624,7 @@ regex
 iostream
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/texture.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/texture.cpp
 nanogui/texture.h
 -
 stb_image.h
@@ -632,17 +632,17 @@ stb_image.h
 memory
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/texture_gl.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/texture_gl.cpp
 nanogui/texture.h
 -
 nanogui/opengl.h
 -
 opengl_check.h
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/opengl_check.h
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/opengl_check.h
 memory
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/theme.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/theme.cpp
 nanogui/theme.h
 -
 nanogui/opengl.h
@@ -652,11 +652,11 @@ nanogui/icons.h
 nanogui_resources.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/traits.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/traits.cpp
 nanogui/traits.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/vscrollpanel.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/vscrollpanel.cpp
 nanogui/vscrollpanel.h
 -
 nanogui/theme.h
@@ -664,7 +664,7 @@ nanogui/theme.h
 nanogui/opengl.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/widget.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/widget.cpp
 nanogui/widget.h
 -
 nanogui/layout.h
@@ -678,7 +678,7 @@ nanogui/opengl.h
 nanogui/screen.h
 -
 
-/home/haoyan/GAMES202/Assignment2/prt/ext/nanogui/src/window.cpp
+/home/haoyan/GAMES202/homework2/prt/ext/nanogui/src/window.cpp
 nanogui/window.h
 -
 nanogui/theme.h

@@ -1,4 +1,4 @@
-# Install script for directory: /home/haoyan/GAMES202/Assignment2/prt/ext/openexr/IlmBase
+# Install script for directory: /home/haoyan/GAMES202/homework2/prt/ext/openexr/IlmBase
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,16 +38,16 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/OpenEXR" TYPE FILE FILES "/home/haoyan/GAMES202/Assignment2/prt/build/ext_build/openexr/IlmBase/config/IlmBaseConfig.h")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/OpenEXR" TYPE FILE FILES "/home/haoyan/GAMES202/homework2/prt/build/ext_build/openexr/IlmBase/config/IlmBaseConfig.h")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/haoyan/GAMES202/Assignment2/prt/build/ext_build/openexr/IlmBase/Half/cmake_install.cmake")
-  include("/home/haoyan/GAMES202/Assignment2/prt/build/ext_build/openexr/IlmBase/Iex/cmake_install.cmake")
-  include("/home/haoyan/GAMES202/Assignment2/prt/build/ext_build/openexr/IlmBase/IexMath/cmake_install.cmake")
-  include("/home/haoyan/GAMES202/Assignment2/prt/build/ext_build/openexr/IlmBase/Imath/cmake_install.cmake")
-  include("/home/haoyan/GAMES202/Assignment2/prt/build/ext_build/openexr/IlmBase/IlmThread/cmake_install.cmake")
+  include("/home/haoyan/GAMES202/homework2/prt/build/ext_build/openexr/IlmBase/Half/cmake_install.cmake")
+  include("/home/haoyan/GAMES202/homework2/prt/build/ext_build/openexr/IlmBase/Iex/cmake_install.cmake")
+  include("/home/haoyan/GAMES202/homework2/prt/build/ext_build/openexr/IlmBase/IexMath/cmake_install.cmake")
+  include("/home/haoyan/GAMES202/homework2/prt/build/ext_build/openexr/IlmBase/Imath/cmake_install.cmake")
+  include("/home/haoyan/GAMES202/homework2/prt/build/ext_build/openexr/IlmBase/IlmThread/cmake_install.cmake")
 
 endif()
 

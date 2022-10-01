@@ -211,7 +211,7 @@ CMakeFiles/nori.dir/ext/spherical-harmonics/sh/default_image.cc.o
  ../ext/eigen/Eigen/src/plugins/MatrixCwiseUnaryOps.h
  ../ext/spherical-harmonics/sh/default_image.h
  ../ext/spherical-harmonics/sh/image.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/spherical-harmonics/sh/default_image.cc
+ /home/haoyan/GAMES202/homework2/prt/ext/spherical-harmonics/sh/default_image.cc
 CMakeFiles/nori.dir/ext/spherical-harmonics/sh/spherical_harmonics.cc.o
  ../ext/eigen/Eigen/Cholesky
  ../ext/eigen/Eigen/Core
@@ -422,7 +422,7 @@ CMakeFiles/nori.dir/ext/spherical-harmonics/sh/spherical_harmonics.cc.o
  ../ext/eigen/Eigen/src/plugins/MatrixCwiseUnaryOps.h
  ../ext/spherical-harmonics/sh/image.h
  ../ext/spherical-harmonics/sh/spherical_harmonics.h
- /home/haoyan/GAMES202/Assignment2/prt/ext/spherical-harmonics/sh/spherical_harmonics.cc
+ /home/haoyan/GAMES202/homework2/prt/ext/spherical-harmonics/sh/spherical_harmonics.cc
 CMakeFiles/nori.dir/src/accel.cpp.o
  ../ext/eigen/Eigen/Cholesky
  ../ext/eigen/Eigen/Core
@@ -628,7 +628,7 @@ CMakeFiles/nori.dir/src/accel.cpp.o
  ../include/nori/ray.h
  ../include/nori/transform.h
  ../include/nori/vector.h
- /home/haoyan/GAMES202/Assignment2/prt/src/accel.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/accel.cpp
 CMakeFiles/nori.dir/src/bitmap.cpp.o
  ../ext/eigen/Eigen/Core
  ../ext/eigen/Eigen/src/Core/Array.h
@@ -814,7 +814,7 @@ CMakeFiles/nori.dir/src/bitmap.cpp.o
  ../include/nori/color.h
  ../include/nori/common.h
  ../include/nori/vector.h
- /home/haoyan/GAMES202/Assignment2/prt/src/bitmap.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/bitmap.cpp
  ext_build/openexr/IlmBase/config/IlmBaseConfig.h
  ext_build/openexr/OpenEXR/config/OpenEXRConfig.h
 CMakeFiles/nori.dir/src/block.cpp.o
@@ -1072,7 +1072,7 @@ CMakeFiles/nori.dir/src/block.cpp.o
  ../include/nori/rfilter.h
  ../include/nori/transform.h
  ../include/nori/vector.h
- /home/haoyan/GAMES202/Assignment2/prt/src/block.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/block.cpp
 CMakeFiles/nori.dir/src/chi2test.cpp.o
  ../ext/eigen/Eigen/Core
  ../ext/eigen/Eigen/src/Core/Array.h
@@ -1229,7 +1229,7 @@ CMakeFiles/nori.dir/src/chi2test.cpp.o
  ../include/nori/transform.h
  ../include/nori/vector.h
  ../include/nori/warp.h
- /home/haoyan/GAMES202/Assignment2/prt/src/chi2test.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/chi2test.cpp
 CMakeFiles/nori.dir/src/common.cpp.o
  ../ext/eigen/Eigen/Cholesky
  ../ext/eigen/Eigen/Core
@@ -1434,7 +1434,7 @@ CMakeFiles/nori.dir/src/common.cpp.o
  ../include/nori/ray.h
  ../include/nori/transform.h
  ../include/nori/vector.h
- /home/haoyan/GAMES202/Assignment2/prt/src/common.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/common.cpp
 CMakeFiles/nori.dir/src/dielectric.cpp.o
  ../ext/eigen/Eigen/Core
  ../ext/eigen/Eigen/src/Core/Array.h
@@ -1587,7 +1587,7 @@ CMakeFiles/nori.dir/src/dielectric.cpp.o
  ../include/nori/ray.h
  ../include/nori/transform.h
  ../include/nori/vector.h
- /home/haoyan/GAMES202/Assignment2/prt/src/dielectric.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/dielectric.cpp
 CMakeFiles/nori.dir/src/diffuse.cpp.o
  ../ext/eigen/Eigen/Core
  ../ext/eigen/Eigen/src/Core/Array.h
@@ -1742,7 +1742,7 @@ CMakeFiles/nori.dir/src/diffuse.cpp.o
  ../include/nori/transform.h
  ../include/nori/vector.h
  ../include/nori/warp.h
- /home/haoyan/GAMES202/Assignment2/prt/src/diffuse.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/diffuse.cpp
 CMakeFiles/nori.dir/src/gui.cpp.o
  ../ext/eigen/Eigen/Core
  ../ext/eigen/Eigen/src/Core/Array.h
@@ -1932,7 +1932,7 @@ CMakeFiles/nori.dir/src/gui.cpp.o
  ../include/nori/common.h
  ../include/nori/gui.h
  ../include/nori/vector.h
- /home/haoyan/GAMES202/Assignment2/prt/src/gui.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/gui.cpp
 CMakeFiles/nori.dir/src/independent.cpp.o
  ../ext/eigen/Eigen/Core
  ../ext/eigen/Eigen/src/Core/Array.h
@@ -2114,7 +2114,7 @@ CMakeFiles/nori.dir/src/independent.cpp.o
  ../include/nori/sampler.h
  ../include/nori/transform.h
  ../include/nori/vector.h
- /home/haoyan/GAMES202/Assignment2/prt/src/independent.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/independent.cpp
 CMakeFiles/nori.dir/src/main.cpp.o
  ../ext/eigen/Eigen/Core
  ../ext/eigen/Eigen/src/Core/Array.h
@@ -2329,7 +2329,7 @@ CMakeFiles/nori.dir/src/main.cpp.o
  ../include/nori/timer.h
  ../include/nori/transform.h
  ../include/nori/vector.h
- /home/haoyan/GAMES202/Assignment2/prt/src/main.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/main.cpp
 CMakeFiles/nori.dir/src/mesh.cpp.o
  ../ext/eigen/Eigen/Cholesky
  ../ext/eigen/Eigen/Core
@@ -2538,7 +2538,7 @@ CMakeFiles/nori.dir/src/mesh.cpp.o
  ../include/nori/transform.h
  ../include/nori/vector.h
  ../include/nori/warp.h
- /home/haoyan/GAMES202/Assignment2/prt/src/mesh.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/mesh.cpp
 CMakeFiles/nori.dir/src/microfacet.cpp.o
  ../ext/eigen/Eigen/Core
  ../ext/eigen/Eigen/src/Core/Array.h
@@ -2693,7 +2693,7 @@ CMakeFiles/nori.dir/src/microfacet.cpp.o
  ../include/nori/transform.h
  ../include/nori/vector.h
  ../include/nori/warp.h
- /home/haoyan/GAMES202/Assignment2/prt/src/microfacet.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/microfacet.cpp
 CMakeFiles/nori.dir/src/mirror.cpp.o
  ../ext/eigen/Eigen/Core
  ../ext/eigen/Eigen/src/Core/Array.h
@@ -2846,7 +2846,7 @@ CMakeFiles/nori.dir/src/mirror.cpp.o
  ../include/nori/ray.h
  ../include/nori/transform.h
  ../include/nori/vector.h
- /home/haoyan/GAMES202/Assignment2/prt/src/mirror.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/mirror.cpp
 CMakeFiles/nori.dir/src/obj.cpp.o
  ../ext/eigen/Eigen/Core
  ../ext/eigen/Eigen/src/Core/Array.h
@@ -3004,7 +3004,7 @@ CMakeFiles/nori.dir/src/obj.cpp.o
  ../include/nori/timer.h
  ../include/nori/transform.h
  ../include/nori/vector.h
- /home/haoyan/GAMES202/Assignment2/prt/src/obj.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/obj.cpp
 CMakeFiles/nori.dir/src/object.cpp.o
  ../ext/eigen/Eigen/Core
  ../ext/eigen/Eigen/src/Core/Array.h
@@ -3155,7 +3155,7 @@ CMakeFiles/nori.dir/src/object.cpp.o
  ../include/nori/ray.h
  ../include/nori/transform.h
  ../include/nori/vector.h
- /home/haoyan/GAMES202/Assignment2/prt/src/object.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/object.cpp
 CMakeFiles/nori.dir/src/parser.cpp.o
  ../ext/eigen/Eigen/Cholesky
  ../ext/eigen/Eigen/Core
@@ -3360,7 +3360,7 @@ CMakeFiles/nori.dir/src/parser.cpp.o
  ../include/nori/ray.h
  ../include/nori/transform.h
  ../include/nori/vector.h
- /home/haoyan/GAMES202/Assignment2/prt/src/parser.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/parser.cpp
 CMakeFiles/nori.dir/src/perspective.cpp.o
  ../ext/eigen/Eigen/Cholesky
  ../ext/eigen/Eigen/Core
@@ -3566,7 +3566,7 @@ CMakeFiles/nori.dir/src/perspective.cpp.o
  ../include/nori/transform.h
  ../include/nori/vector.h
  ../include/nori/warp.h
- /home/haoyan/GAMES202/Assignment2/prt/src/perspective.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/perspective.cpp
 CMakeFiles/nori.dir/src/proplist.cpp.o
  ../ext/eigen/Eigen/Core
  ../ext/eigen/Eigen/src/Core/Array.h
@@ -3716,7 +3716,7 @@ CMakeFiles/nori.dir/src/proplist.cpp.o
  ../include/nori/ray.h
  ../include/nori/transform.h
  ../include/nori/vector.h
- /home/haoyan/GAMES202/Assignment2/prt/src/proplist.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/proplist.cpp
 CMakeFiles/nori.dir/src/prt.cpp.o
  ../ext/eigen/Eigen/Cholesky
  ../ext/eigen/Eigen/Core
@@ -3947,7 +3947,7 @@ CMakeFiles/nori.dir/src/prt.cpp.o
  ../include/nori/scene.h
  ../include/nori/transform.h
  ../include/nori/vector.h
- /home/haoyan/GAMES202/Assignment2/prt/src/prt.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/prt.cpp
 CMakeFiles/nori.dir/src/rfilter.cpp.o
  ../ext/eigen/Eigen/Core
  ../ext/eigen/Eigen/src/Core/Array.h
@@ -4099,7 +4099,7 @@ CMakeFiles/nori.dir/src/rfilter.cpp.o
  ../include/nori/rfilter.h
  ../include/nori/transform.h
  ../include/nori/vector.h
- /home/haoyan/GAMES202/Assignment2/prt/src/rfilter.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/rfilter.cpp
 CMakeFiles/nori.dir/src/scene.cpp.o
  ../ext/eigen/Eigen/Core
  ../ext/eigen/Eigen/src/Core/Array.h
@@ -4260,7 +4260,7 @@ CMakeFiles/nori.dir/src/scene.cpp.o
  ../include/nori/scene.h
  ../include/nori/transform.h
  ../include/nori/vector.h
- /home/haoyan/GAMES202/Assignment2/prt/src/scene.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/scene.cpp
 CMakeFiles/nori.dir/src/ttest.cpp.o
  ../ext/eigen/Eigen/Core
  ../ext/eigen/Eigen/src/Core/Array.h
@@ -4423,7 +4423,7 @@ CMakeFiles/nori.dir/src/ttest.cpp.o
  ../include/nori/scene.h
  ../include/nori/transform.h
  ../include/nori/vector.h
- /home/haoyan/GAMES202/Assignment2/prt/src/ttest.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/ttest.cpp
 CMakeFiles/nori.dir/src/warp.cpp.o
  ../ext/eigen/Eigen/Core
  ../ext/eigen/Eigen/src/Core/Array.h
@@ -4577,4 +4577,4 @@ CMakeFiles/nori.dir/src/warp.cpp.o
  ../include/nori/transform.h
  ../include/nori/vector.h
  ../include/nori/warp.h
- /home/haoyan/GAMES202/Assignment2/prt/src/warp.cpp
+ /home/haoyan/GAMES202/homework2/prt/src/warp.cpp
