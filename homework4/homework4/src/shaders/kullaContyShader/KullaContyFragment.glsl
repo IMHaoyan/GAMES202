@@ -23,27 +23,31 @@ const float PI = 3.14159265359;
 float DistributionGGX(vec3 N, vec3 H, float roughness)
 {
    // TODO: To calculate GGX NDF here
-    return 1.0;
+   float a2 = pow(roughness, 4.0);
+   float NdotH = clamp(dot(N, H), 0.0, 1.0);
+   float d = NdotH * NdotH * (a2 - 1.0) + 1.0;
+    return a2 / (PI * d * d);
 }
 
 float GeometrySchlickGGX(float NdotV, float roughness)
 {
     // TODO: To calculate Schlick G1 here
-    
-    return 1.0;
+    NdotV = clamp(NdotV, 0.0, 1.0);
+    float k = roughness * roughness / 2.0;    
+    return NdotV / (NdotV * (1.0 - k) + k);
 }
 
 float GeometrySmith(vec3 N, vec3 V, vec3 L, float roughness)
 {
     // TODO: To calculate Smith G here
-
-    return 1.0;
+    return GeometrySchlickGGX(dot(L, N), roughness) * GeometrySchlickGGX(dot(V, N), roughness);
 }
 
 vec3 fresnelSchlick(vec3 F0, vec3 V, vec3 H)
 {
     // TODO: To calculate Schlick F here
-    return vec3(1.0);
+    float theta = clamp(dot(V, H), 0.0, 1.0);
+    return F0 + (1.0 - F0) * pow(1.0 - theta, 5.0);
 }
 
 
@@ -63,15 +67,15 @@ vec3 MultiScatterBRDF(float NdotL, float NdotV)
   vec3 E_i = texture2D(uBRDFLut, vec2(NdotV, uRoughness)).xyz;
 
   vec3 E_avg = texture2D(uEavgLut, vec2(0, uRoughness)).xyz;
-  // copper
-  vec3 edgetint = vec3(0.827, 0.792, 0.678);
+
+  // 计算出补充 BRDF项 
+  vec3 fms = (1.0 - E_o) * (1.0 - E_i) / (PI * (1.0 - E_avg));
+
+  //计算颜色造成的自然存在的能量损失 因此乘上一个附加的 BRDF项 fadd：
+  vec3 edgetint = vec3(0.827, 0.792, 0.678);// copper 
   vec3 F_avg = AverageFresnel(albedo, edgetint);
-  
-  // TODO: To calculate fms and missing energy here
-
-
-  return vec3(1.0);
-  
+  vec3 fadd = F_avg * E_avg / (1.0 - F_avg * (1.0 - E_avg));  
+  return fadd * fms;  
 }
 
 void main(void) {
@@ -103,8 +107,7 @@ void main(void) {
   
   float NdotL = max(dot(N, L), 0.0);        
 
-  vec3 Fms = MultiScatterBRDF(NdotL, NdotV);
-  vec3 BRDF = Fmicro + Fms;
+  vec3 BRDF = Fmicro + MultiScatterBRDF(NdotL, NdotV);
   
   Lo += BRDF * radiance * NdotL;
   vec3 color = Lo;
