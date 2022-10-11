@@ -3,7 +3,7 @@
 #include <cmath>
 #include <cstring>
 
-#include "util/common.h"
+#include "/home/haoyan/GAMES202/homework5/src/util/common.h"
 
 inline float Sqr(const float &v) { return v * v; }
 inline float SafeSqrt(const float &v) { return std::sqrt(std::max(v, 0.f)); }

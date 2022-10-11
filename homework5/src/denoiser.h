@@ -3,10 +3,10 @@
 #define NOMINMAX
 #include <string>
 
-#include "filesystem/path.h"
+#include "/home/haoyan/GAMES202/homework5/src/ext/filesystem/path.h"
 
-#include "util/image.h"
-#include "util/mathutil.h"
+#include "/home/haoyan/GAMES202/homework5/src/util/image.h"
+#include "/home/haoyan/GAMES202/homework5/src/util/imageutil.h"
 
 struct FrameInfo {
   public:
